@@ -1,0 +1,75 @@
+Setting top to                           : /home/caesar/xxdk/hawk/ardupilot 
+Setting out to                           : /home/caesar/xxdk/hawk/ardupilot/build 
+Autoconfiguration                        : enabled 
+Setting board to                         : Durandal 
+Using toolchain                          : arm-none-eabi 
+Checking for 'g++' (C++ compiler)        : /opt/gcc-arm-none-eabi-6-2017-q2-update/bin/arm-none-eabi-g++ 
+Checking for 'gcc' (C compiler)          : /opt/gcc-arm-none-eabi-6-2017-q2-update/bin/arm-none-eabi-gcc 
+Checking for c flags '-MMD'              : yes 
+Checking for cxx flags '-MMD'            : yes 
+CXX Compiler                             : g++ 6.3.1 
+Checking for program 'make'              : /usr/bin/make 
+Checking for program 'arm-none-eabi-objcopy' : /opt/gcc-arm-none-eabi-6-2017-q2-update/bin/arm-none-eabi-objcopy 
+Adding environment OPTIMIZE -O2
+Setup for MCU STM32H743xx
+Writing hwdef setup in /home/caesar/xxdk/hawk/ardupilot/build/Durandal/hwdef.h
+MCU Flags: cortex-m7 ['-mcpu=cortex-m7', '-mfpu=fpv5-d16', '-mfloat-abi=hard']
+Writing DMA map
+Generating ldscript.ld
+No default parameter file found
+Checking for env.py
+env set HAL_NUM_CAN_IFACES=2
+env set BOARD_FLASH_SIZE=2048
+env set IOMCU_FW=0
+env set APJ_BOARD_TYPE=STM32H743xx
+env set PROCESS_STACK=0x1C00
+env set HAS_EXTERNAL_FLASH_SECTIONS=0
+env set USBID=0x3162/0x004b
+env set MAIN_STACK=0x600
+env set APJ_BOARD_ID=139
+env set BOOTLOADER_EMBED=1
+env set CORTEX=cortex-m7
+env set FLASH_TOTAL=1966080
+env set ENABLE_CRASHDUMP=1
+env set FLASH_RESERVE_START_KB=128
+env set CHIBIOS_BUILD_FLAGS=USE_FATFS=yes MCU=cortex-m7 ENV_UDEFS=-DCHPRINTF_USE_FLOAT=1 CHIBIOS_PLATFORM_MK=os/hal/ports/STM32/STM32H7xx/platform.mk CHIBIOS_STARTUP_MK=os/common/startup/ARMCMx/compilers/GCC/mk/startup_stm32h7xx.mk
+env set EXTERNAL_PROG_FLASH_MB=0
+env set CPU_FLAGS=['-mcpu=cortex-m7', '-mfpu=fpv5-d16', '-mfloat-abi=hard', '-DARM_MATH_CM7', '-u_printf_float']
+env set OPTIMIZE=-O2
+env set PERIPH_FW=0
+env set WITH_FATFS=1
+Enabling ChibiOS asserts                     : no 
+Disabling Watchdog                           : no 
+Enabling malloc guard                        : no 
+Enabling ChibiOS thread statistics           : no 
+Enabling -Werror                             : yes 
+Checking for intelhex module:                : disabled 
+Checking for HAVE_CMATH_ISFINITE             : yes 
+Checking for HAVE_CMATH_ISINF                : yes 
+Checking for HAVE_CMATH_ISNAN                : yes 
+Checking for NEED_CMATH_ISFINITE_STD_NAMESPACE : yes 
+Checking for NEED_CMATH_ISINF_STD_NAMESPACE    : yes 
+Checking for NEED_CMATH_ISNAN_STD_NAMESPACE    : yes 
+Checking for header endian.h                   : not found 
+Checking for header byteswap.h                 : not found 
+Checking for HAVE_MEMRCHR                      : no 
+Configured VSCode Intellisense:                : no 
+Checking for program 'python'                  : /usr/bin/python 
+Checking for python version >= 2.7.0           : 2.7.12 
+Checking for program 'python'                  : /usr/bin/python 
+Checking for python version >= 2.7.0           : 2.7.12 
+Source is git repository                       : yes 
+Update submodules                              : yes 
+Checking for program 'git'                     : /usr/bin/git 
+Gtest                                          : STM32 boards currently don't support compiling gtest 
+Checking for program 'arm-none-eabi-size'      : /opt/gcc-arm-none-eabi-6-2017-q2-update/bin/arm-none-eabi-size 
+Benchmarks                                     : disabled 
+Unit tests                                     : disabled 
+Scripting                                      : enabled 
+Scripting runtime checks                       : enabled 
+Debug build                                    : disabled 
+Coverage build                                 : disabled 
+SITL 32-bit build                              : disabled 
+Checking for program 'rsync'                   : /usr/bin/rsync 
+'configure' finished successfully (0.968s)
+
