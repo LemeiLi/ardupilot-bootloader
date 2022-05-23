@@ -1,0 +1,4 @@
+<map id="NVIC Defines" name="NVIC Defines">
+<area shape="rect" id="node1" href="$group__nvic__sysint.html" title="IRQ numbers &#45;3 and &#45;6 to &#45;9 are reserved. " alt="" coords="157,5,333,47"/>
+<area shape="rect" id="node3" href="$group__CM3__nvic__defines__STM32F0.html" title="User interrupts for\l STM32 F0 series" alt="" coords="182,71,309,112"/>
+</map>

@@ -1,0 +1,105 @@
+/home/caesar/Bootloader/libopencm3/include/libopencm3/stm32/f4/dsi.h:818: warning: end of file while inside a group
+
+/home/caesar/Bootloader/libopencm3/include/libopencm3/stm32/f4/rcc.h:382: warning: group rcc_AxBY_reset_values: ignoring title "AHB/APB enable bits" that does not match old title "AHB/APB reset bits"
+
+/home/caesar/Bootloader/libopencm3/include/libopencm3/stm32/f4/crypto.h:80: warning: Member crypto_mode_mac found in multiple @defgroup groups! The member will be put in group crypto_api, and not in group crypto_defines
+/home/caesar/Bootloader/libopencm3/include/libopencm3/stm32/f4/crypto.h:49: warning: Member CRYP_CSGCMCCMR found in multiple @defgroup groups! The member will be put in group crypto_defines_registers, and not in group crypto_defines
+/home/caesar/Bootloader/libopencm3/lib/stm32/common/rcc_common_all.c:237: warning: unable to resolve reference to `rcc_backupdomain_reset' for \ref command
+/home/caesar/Bootloader/libopencm3/lib/stm32/common/rcc_common_all.c:99: warning: unable to resolve reference to `rcc_ahbrstr_rst' for \ref command
+/home/caesar/Bootloader/libopencm3/lib/stm32/common/rcc_common_all.c:100: warning: unable to resolve reference to `rcc_apb1rstr_rst' for \ref command
+/home/caesar/Bootloader/libopencm3/lib/stm32/common/rcc_common_all.c:101: warning: unable to resolve reference to `rcc_apb2rstr_rst' for \ref command
+/home/caesar/Bootloader/libopencm3/lib/stm32/common/rcc_common_all.c:58: warning: unable to resolve reference to `rcc_ahbenr_en' for \ref command
+/home/caesar/Bootloader/libopencm3/lib/stm32/common/rcc_common_all.c:59: warning: unable to resolve reference to `rcc_apb1enr_en' for \ref command
+/home/caesar/Bootloader/libopencm3/lib/stm32/common/rcc_common_all.c:60: warning: unable to resolve reference to `rcc_apb2enr_en' for \ref command
+/home/caesar/Bootloader/libopencm3/lib/stm32/common/rcc_common_all.c:36: warning: unable to resolve reference to `rcc_ahbenr_en' for \ref command
+/home/caesar/Bootloader/libopencm3/lib/stm32/common/rcc_common_all.c:37: warning: unable to resolve reference to `rcc_apb1enr_en' for \ref command
+/home/caesar/Bootloader/libopencm3/lib/stm32/common/rcc_common_all.c:38: warning: unable to resolve reference to `rcc_apb2enr_en' for \ref command
+/home/caesar/Bootloader/libopencm3/lib/stm32/common/rcc_common_all.c:78: warning: unable to resolve reference to `rcc_ahbrstr_rst' for \ref command
+/home/caesar/Bootloader/libopencm3/lib/stm32/common/rcc_common_all.c:79: warning: unable to resolve reference to `rcc_apb1rstr_rst' for \ref command
+/home/caesar/Bootloader/libopencm3/lib/stm32/common/rcc_common_all.c:80: warning: unable to resolve reference to `rcc_apb2rstr_rst' for \ref command
+/home/caesar/Bootloader/libopencm3/include/libopencm3/stm32/f4/crypto.h:2: warning: end of comment block while expecting command </b>
+/home/caesar/Bootloader/libopencm3/include/libopencm3/stm32/f4/doc-stm32f4.h:27: warning: end of comment block while expecting command </b>
+/home/caesar/Bootloader/libopencm3/lib/stm32/common/hash_common_f24.c:143: warning: argument 'algorithm' of command @param is not found in the argument list of hash_get_result(uint32_t *data)
+/home/caesar/Bootloader/libopencm3/lib/stm32/common/flash_common_f234.c:35: warning: unable to resolve reference to `flash_latency' for \ref command
+/home/caesar/Bootloader/libopencm3/include/libopencm3/stm32/f4/crypto.h:2: warning: end of comment block while expecting command </b>
+/home/caesar/Bootloader/libopencm3/include/libopencm3/stm32/f4/crypto.h:2: warning: end of comment block while expecting command </b>
+/home/caesar/Bootloader/libopencm3/lib/cm3/nvic.c:107: warning: unable to resolve reference to `nvic_stm32f1_userint' for \ref command
+/home/caesar/Bootloader/libopencm3/lib/cm3/nvic.c:65: warning: unable to resolve reference to `nvic_stm32f1_userint' for \ref command
+/home/caesar/Bootloader/libopencm3/lib/cm3/nvic.c:52: warning: unable to resolve reference to `nvic_stm32f1_userint' for \ref command
+/home/caesar/Bootloader/libopencm3/lib/cm3/nvic.c:120: warning: unable to resolve reference to `nvic_stm32f1_userint' for \ref command
+/home/caesar/Bootloader/libopencm3/lib/cm3/nvic.c:78: warning: unable to resolve reference to `nvic_stm32f1_userint' for \ref command
+/home/caesar/Bootloader/libopencm3/lib/cm3/nvic.c:93: warning: unable to resolve reference to `nvic_stm32f1_userint' for \ref command
+/home/caesar/Bootloader/libopencm3/lib/cm3/nvic.c:138: warning: unable to resolve reference to `scb_set_priority_grouping' for \ref command
+/home/caesar/Bootloader/libopencm3/lib/cm3/nvic.c:145: warning: unable to resolve reference to `nvic_stm32f1_userint' for \ref command
+/home/caesar/Bootloader/libopencm3/lib/cm3/systick.c:51: warning: Found unknown command `\seealso'
+/home/caesar/Bootloader/libopencm3/lib/ethernet/mac_stm32fxx7.c:370: warning: argument 'bits' of command @param is not found in the argument list of eth_smi_bit_set(uint8_t phy, uint8_t reg, uint16_t setbits)
+/home/caesar/Bootloader/libopencm3/include/libopencm3/ethernet/mac_stm32fxx7.h:733: warning: The following parameters of eth_smi_bit_set(uint8_t phy, uint8_t reg, uint16_t setbits) are not documented:
+  parameter 'setbits'
+/home/caesar/Bootloader/libopencm3/include/libopencm3/stm32/can.h:648: warning: The following parameters of can_init(uint32_t canport, bool ttcm, bool abom, bool awum, bool nart, bool rflm, bool txfp, uint32_t sjw, uint32_t ts1, uint32_t ts2, uint32_t brp, bool loopback, bool silent) are not documented:
+  parameter 'loopback'
+  parameter 'silent'
+/home/caesar/Bootloader/libopencm3/lib/stm32/can.c:456: warning: argument 'timestamp.' of command @param is not found in the argument list of can_receive(uint32_t canport, uint8_t fifo, bool release, uint32_t *id, bool *ext, bool *rtr, uint8_t *fmi, uint8_t *length, uint8_t *data, uint16_t *timestamp)
+/home/caesar/Bootloader/libopencm3/include/libopencm3/stm32/can.h:671: warning: The following parameters of can_receive(uint32_t canport, uint8_t fifo, bool release, uint32_t *id, bool *ext, bool *rtr, uint8_t *fmi, uint8_t *length, uint8_t *data, uint16_t *timestamp) are not documented:
+  parameter 'timestamp'
+/home/caesar/Bootloader/libopencm3/include/libopencm3/usb/usbd.h:195: warning: The following parameters of usbd_ep_nak_set(usbd_device *usbd_dev, uint8_t addr, uint8_t nak) are not documented:
+  parameter 'usbd_dev'
+/home/caesar/Bootloader/libopencm3/include/libopencm3/usb/usbd.h:176: warning: The following parameters of usbd_ep_read_packet(usbd_device *usbd_dev, uint8_t addr, void *buf, uint16_t len) are not documented:
+  parameter 'usbd_dev'
+  parameter 'buf'
+/home/caesar/Bootloader/libopencm3/include/libopencm3/usb/usbd.h:160: warning: The following parameters of usbd_ep_setup(usbd_device *usbd_dev, uint8_t addr, uint8_t type, uint16_t max_size, usbd_endpoint_callback callback) are not documented:
+  parameter 'usbd_dev'
+  parameter 'max_size'
+  parameter 'callback'
+/home/caesar/Bootloader/libopencm3/include/libopencm3/usb/usbd.h:189: warning: The following parameters of usbd_ep_stall_get(usbd_device *usbd_dev, uint8_t addr) are not documented:
+  parameter 'usbd_dev'
+/home/caesar/Bootloader/libopencm3/include/libopencm3/usb/usbd.h:182: warning: The following parameters of usbd_ep_stall_set(usbd_device *usbd_dev, uint8_t addr, uint8_t stall) are not documented:
+  parameter 'usbd_dev'
+/home/caesar/Bootloader/libopencm3/include/libopencm3/usb/usbd.h:168: warning: The following parameters of usbd_ep_write_packet(usbd_device *usbd_dev, uint8_t addr, const void *buf, uint16_t len) are not documented:
+  parameter 'usbd_dev'
+  parameter 'buf'
+/home/caesar/Bootloader/libopencm3/include/libopencm3/usb/usbd.h:87: warning: The following parameters of usbd_init(const usbd_driver *driver, const struct usb_device_descriptor *dev, const struct usb_config_descriptor *conf, const char **strings, int num_strings, uint8_t *control_buffer, uint16_t control_buffer_size) are not documented:
+  parameter 'num_strings'
+/home/caesar/Bootloader/libopencm3/include/libopencm3/usb/usbd.h:136: warning: The following parameters of usbd_register_control_callback(usbd_device *usbd_dev, uint8_t type, uint8_t type_mask, usbd_control_callback callback) are not documented:
+  parameter 'usbd_dev'
+  parameter 'callback'
+/home/caesar/Bootloader/libopencm3/lib/cm3/nvic.c:107: warning: unable to resolve reference to `nvic_stm32f1_userint' for \ref command
+/home/caesar/Bootloader/libopencm3/lib/cm3/nvic.c:65: warning: unable to resolve reference to `nvic_stm32f1_userint' for \ref command
+/home/caesar/Bootloader/libopencm3/lib/cm3/nvic.c:52: warning: unable to resolve reference to `nvic_stm32f1_userint' for \ref command
+/home/caesar/Bootloader/libopencm3/lib/cm3/nvic.c:120: warning: unable to resolve reference to `nvic_stm32f1_userint' for \ref command
+/home/caesar/Bootloader/libopencm3/lib/cm3/nvic.c:78: warning: unable to resolve reference to `nvic_stm32f1_userint' for \ref command
+/home/caesar/Bootloader/libopencm3/lib/cm3/nvic.c:93: warning: unable to resolve reference to `nvic_stm32f1_userint' for \ref command
+/home/caesar/Bootloader/libopencm3/lib/cm3/nvic.c:138: warning: unable to resolve reference to `scb_set_priority_grouping' for \ref command
+/home/caesar/Bootloader/libopencm3/lib/cm3/nvic.c:145: warning: unable to resolve reference to `nvic_stm32f1_userint' for \ref command
+/home/caesar/Bootloader/libopencm3/lib/cm3/systick.c:51: warning: Found unknown command `\seealso'
+/home/caesar/Bootloader/libopencm3/lib/ethernet/mac_stm32fxx7.c:370: warning: argument 'bits' of command @param is not found in the argument list of eth_smi_bit_set(uint8_t phy, uint8_t reg, uint16_t setbits)
+/home/caesar/Bootloader/libopencm3/lib/ethernet/mac_stm32fxx7.c:376: warning: The following parameters of eth_smi_bit_set(uint8_t phy, uint8_t reg, uint16_t setbits) are not documented:
+  parameter 'setbits'
+/home/caesar/Bootloader/libopencm3/lib/usb/usb.c:151: warning: The following parameters of usbd_ep_nak_set(usbd_device *usbd_dev, uint8_t addr, uint8_t nak) are not documented:
+  parameter 'usbd_dev'
+/home/caesar/Bootloader/libopencm3/lib/usb/usb.c:135: warning: The following parameters of usbd_ep_read_packet(usbd_device *usbd_dev, uint8_t addr, void *buf, uint16_t len) are not documented:
+  parameter 'usbd_dev'
+  parameter 'buf'
+/home/caesar/Bootloader/libopencm3/lib/usb/usb.c:123: warning: The following parameters of usbd_ep_setup(usbd_device *usbd_dev, uint8_t addr, uint8_t type, uint16_t max_size, usbd_endpoint_callback callback) are not documented:
+  parameter 'usbd_dev'
+  parameter 'max_size'
+  parameter 'callback'
+/home/caesar/Bootloader/libopencm3/lib/usb/usb.c:146: warning: The following parameters of usbd_ep_stall_get(usbd_device *usbd_dev, uint8_t addr) are not documented:
+  parameter 'usbd_dev'
+/home/caesar/Bootloader/libopencm3/lib/usb/usb.c:141: warning: The following parameters of usbd_ep_stall_set(usbd_device *usbd_dev, uint8_t addr, uint8_t stall) are not documented:
+  parameter 'usbd_dev'
+/home/caesar/Bootloader/libopencm3/lib/usb/usb.c:129: warning: The following parameters of usbd_ep_write_packet(usbd_device *usbd_dev, uint8_t addr, const void *buf, uint16_t len) are not documented:
+  parameter 'usbd_dev'
+  parameter 'buf'
+/home/caesar/Bootloader/libopencm3/lib/usb/usb.c:42: warning: The following parameters of usbd_init(const usbd_driver *driver, const struct usb_device_descriptor *dev, const struct usb_config_descriptor *conf, const char **strings, int num_strings, uint8_t *control_buffer, uint16_t control_buffer_size) are not documented:
+  parameter 'num_strings'
+/home/caesar/Bootloader/libopencm3/lib/usb/usb_control.c:73: warning: The following parameters of usbd_register_control_callback(usbd_device *usbd_dev, uint8_t type, uint8_t type_mask, usbd_control_callback callback) are not documented:
+  parameter 'usbd_dev'
+  parameter 'callback'
+/home/caesar/Bootloader/libopencm3/lib/stm32/common/rng_common_v1.c:45: warning: argument 'pointer' of command @param is not found in the argument list of rng_get_random(uint32_t *rand_nr)
+/home/caesar/Bootloader/libopencm3/include/libopencm3/stm32/common/rng_common_v1.h:78: warning: The following parameters of rng_get_random(uint32_t *rand_nr) are not documented:
+  parameter 'rand_nr'
+/home/caesar/Bootloader/libopencm3/lib/stm32/common/flash_common_f234.c:35: warning: unable to resolve reference to `flash_latency' for \ref command
+/home/caesar/Bootloader/libopencm3/lib/stm32/common/hash_common_f24.c:143: warning: argument 'algorithm' of command @param is not found in the argument list of hash_get_result(uint32_t *data)
+/home/caesar/Bootloader/libopencm3/lib/stm32/common/timer_common_f24.c:40: warning: The following parameters of timer_set_option(uint32_t timer_peripheral, uint32_t option) are not documented:
+  parameter 'option'
+/home/caesar/Bootloader/libopencm3/include/libopencm3/stm32/f4/crypto.h:2: warning: end of comment block while expecting command </b>

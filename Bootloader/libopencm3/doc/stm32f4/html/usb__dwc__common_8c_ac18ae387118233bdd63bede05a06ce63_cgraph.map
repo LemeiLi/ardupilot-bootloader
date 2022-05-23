@@ -1,0 +1,5 @@
+<map id="dwc_poll" name="dwc_poll">
+<area shape="rect" id="node2" href="$group__usb__drivers__file.html#ga3bc8dd33500621a1e900c78a42dcaf27" title="_usbd_reset" alt="" coords="139,5,232,32"/>
+<area shape="rect" id="node4" href="$usb__dwc__common_8c.html#a6132579ea6c709e5d1a61929fb77e426" title="dwc_flush_txfifo" alt="" coords="127,56,244,83"/>
+<area shape="rect" id="node3" href="$group__usb__drivers__file.html#gaadc222d45c63e01811952f8478ac7943" title="Setup an endpoint. " alt="" coords="292,5,403,32"/>
+</map>

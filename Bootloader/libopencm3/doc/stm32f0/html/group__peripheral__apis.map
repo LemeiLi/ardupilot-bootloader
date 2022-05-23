@@ -1,0 +1,8 @@
+<map id="Peripheral APIs" name="Peripheral APIs">
+<area shape="rect" id="node1" href="$group__usart__file.html" title="USART peripheral API" alt="" coords="167,5,321,32"/>
+<area shape="rect" id="node3" href="$group__iwdg__file.html" title="IWDG peripheral API" alt="" coords="171,56,317,83"/>
+<area shape="rect" id="node4" href="$group__spi__file.html" title="SPI peripheral API" alt="" coords="179,107,309,133"/>
+<area shape="rect" id="node5" href="$group__crc__file.html" title="CRC peripheral API" alt="" coords="175,157,313,184"/>
+<area shape="rect" id="node6" href="$group__adc__file.html" title="based on F3 file " alt="" coords="175,208,313,235"/>
+<area shape="rect" id="node7" href="$group__i2c__file.html" title="I2C peripheral API" alt="" coords="179,259,309,285"/>
+</map>

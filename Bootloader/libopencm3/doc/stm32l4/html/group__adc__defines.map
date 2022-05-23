@@ -1,0 +1,6 @@
+<map id="ADC Defines" name="ADC Defines">
+<area shape="rect" id="node1" href="$group__adc__channel.html" title="ADC Channel Numbers" alt="" coords="360,5,520,32"/>
+<area shape="rect" id="node2" href="$group__STM32L4xx__defines.html" title="Defined Constants and Types for the STM32L4xx series. " alt="" coords="5,56,147,83"/>
+<area shape="rect" id="node4" href="$group__adc__reg__base.html" title="ADC register base addresses" alt="" coords="343,56,537,83"/>
+<area shape="rect" id="node5" href="$group__adc__sample.html" title="ADC Sample Time Selection\l values" alt="" coords="345,107,535,149"/>
+</map>

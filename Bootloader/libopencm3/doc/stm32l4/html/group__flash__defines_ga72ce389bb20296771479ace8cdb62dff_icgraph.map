@@ -1,0 +1,7 @@
+<map id="flash_wait_for_last_operation" name="flash_wait_for_last_operation">
+<area shape="rect" id="node2" href="$group__flash__file.html#ga25ad479b6175bc243f6c37b6ecf5d680" title="Erase All FLASH This performs all operations necessary to erase all sectors in the FLASH memory..." alt="" coords="184,5,343,32"/>
+<area shape="rect" id="node3" href="$group__flash__file.html#gac74aa8a6950d4a3d964ea1bb469b97a2" title="Erase a Sector of FLASH This performs all operations necessary to erase a sector in FLASH memory..." alt="" coords="197,56,329,83"/>
+<area shape="rect" id="node4" href="$group__flash__file.html#ga06a93b6102d8799e0ed6fe5a6415ffc2" title="Program the Option Bytes This performs all operations necessary to program the option bytes..." alt="" coords="190,107,337,149"/>
+<area shape="rect" id="node5" href="$group__flash__file.html#ga73937aa6df8710e95425b165730626a2" title="Program a 32 bit Word to FLASH This performs all operations necessary to program a 32 bit word to FLA..." alt="" coords="194,173,333,200"/>
+<area shape="rect" id="node6" href="$group__flash__file.html#ga9149ea4d291a737b89ca7475471806a0" title="Program a Data Block to FLASH This programs an arbitrary length data block to FLASH memory..." alt="" coords="391,173,495,200"/>
+</map>

@@ -1,0 +1,31 @@
+<map id="memorymap.h" name="memorymap.h">
+<area shape="rect" id="node2" href="$adc_8h.html" title="adc.h" alt="" coords="5,80,60,107"/>
+<area shape="rect" id="node3" href="$atimer_8h.html" title="atimer.h" alt="" coords="85,80,154,107"/>
+<area shape="rect" id="node4" href="$ccu_8h.html" title="ccu.h" alt="" coords="179,80,233,107"/>
+<area shape="rect" id="node5" href="$cgu_8h.html" title="cgu.h" alt="" coords="412,80,467,107"/>
+<area shape="rect" id="node9" href="$creg_8h.html" title="creg.h" alt="" coords="649,80,707,107"/>
+<area shape="rect" id="node11" href="$eventrouter_8h.html" title="eventrouter.h" alt="" coords="881,80,979,107"/>
+<area shape="rect" id="node12" href="$gima_8h.html" title="gima.h" alt="" coords="1003,80,1065,107"/>
+<area shape="rect" id="node13" href="$gpdma_8h.html" title="gpdma.h" alt="" coords="1089,80,1161,107"/>
+<area shape="rect" id="node14" href="$gpio_8h.html" title="gpio.h" alt="" coords="1185,80,1243,107"/>
+<area shape="rect" id="node16" href="$i2c_8h.html" title="i2c.h" alt="" coords="337,80,387,107"/>
+<area shape="rect" id="node17" href="$i2s_8h.html" title="i2s.h" alt="" coords="1267,80,1318,107"/>
+<area shape="rect" id="node18" href="$ipc_8h.html" title="ipc.h" alt="" coords="731,80,782,107"/>
+<area shape="rect" id="node19" href="$rgu_8h.html" title="rgu.h" alt="" coords="806,80,857,107"/>
+<area shape="rect" id="node20" href="$ritimer_8h.html" title="ritimer.h" alt="" coords="1342,80,1411,107"/>
+<area shape="rect" id="node21" href="$scu_8h.html" title="scu.h" alt="" coords="257,80,312,107"/>
+<area shape="rect" id="node23" href="$sdio_8h.html" title="sdio.h" alt="" coords="1436,80,1493,107"/>
+<area shape="rect" id="node24" href="$sgpio_8h.html" title="sgpio.h" alt="" coords="1518,80,1582,107"/>
+<area shape="rect" id="node25" href="$ssp_8h.html" title="ssp.h" alt="" coords="491,80,545,107"/>
+<area shape="rect" id="node26" href="$timer_8h.html" title="timer.h" alt="" coords="1607,80,1669,107"/>
+<area shape="rect" id="node28" href="$uart_8h.html" title="uart.h" alt="" coords="569,80,624,107"/>
+<area shape="rect" id="node29" href="$usb_8h.html" title="usb.h" alt="" coords="1693,80,1748,107"/>
+<area shape="rect" id="node30" href="$wwdt_8h.html" title="wwdt.h" alt="" coords="1773,80,1837,107"/>
+<area shape="rect" id="node6" href="$i2c_8c.html" title="i2c.c" alt="" coords="337,155,387,181"/>
+<area shape="rect" id="node7" href="$ssp_8c.html" title="ssp.c" alt="" coords="432,155,487,181"/>
+<area shape="rect" id="node8" href="$uart_8c.html" title="uart.c" alt="" coords="549,155,604,181"/>
+<area shape="rect" id="node10" href="$ipc_8c.html" title="ipc.c" alt="" coords="731,155,782,181"/>
+<area shape="rect" id="node15" href="$gpio_8c.html" title="gpio.c" alt="" coords="1185,155,1243,181"/>
+<area shape="rect" id="node22" href="$scu_8c.html" title="scu.c" alt="" coords="257,155,312,181"/>
+<area shape="rect" id="node27" href="$timer_8c.html" title="timer.c" alt="" coords="1607,155,1669,181"/>
+</map>

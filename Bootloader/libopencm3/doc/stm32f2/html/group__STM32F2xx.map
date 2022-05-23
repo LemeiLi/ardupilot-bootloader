@@ -1,0 +1,4 @@
+<map id="STM32F2xx" name="STM32F2xx">
+<area shape="rect" id="node1" href="$group__rcc__file.html" title="libopencm3 STM32F2xx Reset and Clock Control " alt="" coords="148,5,200,32"/>
+<area shape="rect" id="node2" href="$group__gpio__file.html" title="libopencm3 STM32F2xx General Purpose I/O " alt="" coords="147,56,201,83"/>
+</map>

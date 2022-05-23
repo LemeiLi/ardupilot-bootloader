@@ -1,0 +1,8 @@
+<map id="STM32F4xx" name="STM32F4xx">
+<area shape="rect" id="node1" href="$group__rcc__file.html" title="libopencm3 STM32F4xx Reset and Clock Control " alt="" coords="160,5,212,32"/>
+<area shape="rect" id="node2" href="$group__gpio__file.html" title="libopencm3 STM32F4xx General Purpose I/O " alt="" coords="159,56,213,83"/>
+<area shape="rect" id="node3" href="$group__ltdc__file.html" title="libopencm3 STM32F4xx LTDC " alt="" coords="157,107,215,133"/>
+<area shape="rect" id="node4" href="$group__pwr__file.html" title="libopencm3 STM32F4xx Power Control " alt="" coords="159,157,213,184"/>
+<area shape="rect" id="node5" href="$group__rtc__file.html" title="libopencm3 STM32F4xx RTC " alt="" coords="161,208,211,235"/>
+<area shape="rect" id="node7" href="$group__crypto__file.html" title="libopencm3 STM32F4xx CRYPTO " alt="" coords="147,259,225,285"/>
+</map>

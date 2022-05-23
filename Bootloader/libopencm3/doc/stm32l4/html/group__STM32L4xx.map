@@ -1,0 +1,5 @@
+<map id="STM32L4xx" name="STM32L4xx">
+<area shape="rect" id="node1" href="$group__rcc__file.html" title="libopencm3 STM32L4xx Reset and Clock Control " alt="" coords="152,5,204,32"/>
+<area shape="rect" id="node3" href="$group__pwr__file.html" title="libopencm3 STM32L4xx Power Control " alt="" coords="151,56,205,83"/>
+<area shape="rect" id="node4" href="$group__flash__file.html" title="libopencm3 STM32L4xx FLASH " alt="" coords="145,107,211,133"/>
+</map>

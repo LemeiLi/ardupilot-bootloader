@@ -1,0 +1,44 @@
+/home/caesar/Bootloader/libopencm3/include/libopencm3/stm32/f7/pwr.h:296: warning: end of file while inside a group
+
+/home/caesar/Bootloader/libopencm3/lib/stm32/common/rcc_common_all.c:236: warning: unable to resolve reference to `pwr_disable_backup_domain_write_protect' for \ref command
+/home/caesar/Bootloader/libopencm3/lib/stm32/common/rcc_common_all.c:237: warning: unable to resolve reference to `rcc_backupdomain_reset' for \ref command
+/home/caesar/Bootloader/libopencm3/lib/stm32/common/rcc_common_all.c:207: warning: unable to resolve reference to `pwr_disable_backup_domain_write_protect' for \ref command
+/home/caesar/Bootloader/libopencm3/lib/stm32/common/rcc_common_all.c:99: warning: unable to resolve reference to `rcc_ahbrstr_rst' for \ref command
+/home/caesar/Bootloader/libopencm3/lib/stm32/common/rcc_common_all.c:100: warning: unable to resolve reference to `rcc_apb1rstr_rst' for \ref command
+/home/caesar/Bootloader/libopencm3/lib/stm32/common/rcc_common_all.c:101: warning: unable to resolve reference to `rcc_apb2rstr_rst' for \ref command
+/home/caesar/Bootloader/libopencm3/lib/stm32/common/rcc_common_all.c:58: warning: unable to resolve reference to `rcc_ahbenr_en' for \ref command
+/home/caesar/Bootloader/libopencm3/lib/stm32/common/rcc_common_all.c:59: warning: unable to resolve reference to `rcc_apb1enr_en' for \ref command
+/home/caesar/Bootloader/libopencm3/lib/stm32/common/rcc_common_all.c:60: warning: unable to resolve reference to `rcc_apb2enr_en' for \ref command
+/home/caesar/Bootloader/libopencm3/lib/stm32/common/rcc_common_all.c:36: warning: unable to resolve reference to `rcc_ahbenr_en' for \ref command
+/home/caesar/Bootloader/libopencm3/lib/stm32/common/rcc_common_all.c:37: warning: unable to resolve reference to `rcc_apb1enr_en' for \ref command
+/home/caesar/Bootloader/libopencm3/lib/stm32/common/rcc_common_all.c:38: warning: unable to resolve reference to `rcc_apb2enr_en' for \ref command
+/home/caesar/Bootloader/libopencm3/lib/stm32/common/rcc_common_all.c:78: warning: unable to resolve reference to `rcc_ahbrstr_rst' for \ref command
+/home/caesar/Bootloader/libopencm3/lib/stm32/common/rcc_common_all.c:79: warning: unable to resolve reference to `rcc_apb1rstr_rst' for \ref command
+/home/caesar/Bootloader/libopencm3/lib/stm32/common/rcc_common_all.c:80: warning: unable to resolve reference to `rcc_apb2rstr_rst' for \ref command
+/home/caesar/Bootloader/libopencm3/lib/stm32/common/usart_common_v2.c:296: warning: unable to resolve reference to `usart_sr_flags' for \ref command
+/home/caesar/Bootloader/libopencm3/lib/cm3/nvic.c:107: warning: unable to resolve reference to `nvic_stm32f1_userint' for \ref command
+/home/caesar/Bootloader/libopencm3/lib/cm3/nvic.c:65: warning: unable to resolve reference to `nvic_stm32f1_userint' for \ref command
+/home/caesar/Bootloader/libopencm3/lib/cm3/nvic.c:52: warning: unable to resolve reference to `nvic_stm32f1_userint' for \ref command
+/home/caesar/Bootloader/libopencm3/lib/cm3/nvic.c:120: warning: unable to resolve reference to `nvic_stm32f1_userint' for \ref command
+/home/caesar/Bootloader/libopencm3/lib/cm3/nvic.c:78: warning: unable to resolve reference to `nvic_stm32f1_userint' for \ref command
+/home/caesar/Bootloader/libopencm3/lib/cm3/nvic.c:93: warning: unable to resolve reference to `nvic_stm32f1_userint' for \ref command
+/home/caesar/Bootloader/libopencm3/lib/cm3/nvic.c:138: warning: unable to resolve reference to `scb_set_priority_grouping' for \ref command
+/home/caesar/Bootloader/libopencm3/lib/cm3/nvic.c:145: warning: unable to resolve reference to `nvic_stm32f1_userint' for \ref command
+/home/caesar/Bootloader/libopencm3/lib/cm3/systick.c:51: warning: Found unknown command `\seealso'
+/home/caesar/Bootloader/libopencm3/lib/cm3/nvic.c:107: warning: unable to resolve reference to `nvic_stm32f1_userint' for \ref command
+/home/caesar/Bootloader/libopencm3/lib/cm3/nvic.c:65: warning: unable to resolve reference to `nvic_stm32f1_userint' for \ref command
+/home/caesar/Bootloader/libopencm3/lib/cm3/nvic.c:52: warning: unable to resolve reference to `nvic_stm32f1_userint' for \ref command
+/home/caesar/Bootloader/libopencm3/lib/cm3/nvic.c:120: warning: unable to resolve reference to `nvic_stm32f1_userint' for \ref command
+/home/caesar/Bootloader/libopencm3/lib/cm3/nvic.c:78: warning: unable to resolve reference to `nvic_stm32f1_userint' for \ref command
+/home/caesar/Bootloader/libopencm3/lib/cm3/nvic.c:93: warning: unable to resolve reference to `nvic_stm32f1_userint' for \ref command
+/home/caesar/Bootloader/libopencm3/lib/cm3/nvic.c:138: warning: unable to resolve reference to `scb_set_priority_grouping' for \ref command
+/home/caesar/Bootloader/libopencm3/lib/cm3/nvic.c:145: warning: unable to resolve reference to `nvic_stm32f1_userint' for \ref command
+/home/caesar/Bootloader/libopencm3/lib/cm3/systick.c:51: warning: Found unknown command `\seealso'
+/home/caesar/Bootloader/libopencm3/lib/stm32/f7/flash.c:67: warning: unable to resolve reference to `flash_latency' for \ref command
+/home/caesar/Bootloader/libopencm3/lib/stm32/common/rng_common_v1.c:45: warning: argument 'pointer' of command @param is not found in the argument list of rng_get_random(uint32_t *rand_nr)
+/home/caesar/Bootloader/libopencm3/include/libopencm3/stm32/common/rng_common_v1.h:78: warning: The following parameters of rng_get_random(uint32_t *rand_nr) are not documented:
+  parameter 'rand_nr'
+/home/caesar/Bootloader/libopencm3/lib/stm32/common/usart_common_v2.c:202: warning: unable to resolve reference to `usart_isr' for \ref command
+/home/caesar/Bootloader/libopencm3/lib/stm32/common/usart_common_v2.c:296: warning: unable to resolve reference to `usart_sr_flags' for \ref command
+/home/caesar/Bootloader/libopencm3/lib/stm32/common/usart_common_v2.c:154: warning: unable to resolve reference to `usart_isr_rtof' for \ref command
+/home/caesar/Bootloader/libopencm3/lib/stm32/f7/flash.c:67: warning: unable to resolve reference to `flash_latency' for \ref command

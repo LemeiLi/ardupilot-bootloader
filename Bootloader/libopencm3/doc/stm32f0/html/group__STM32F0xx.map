@@ -1,0 +1,11 @@
+<map id="STM32F0xx" name="STM32F0xx">
+<area shape="rect" id="node1" href="$group__gpio__file.html" title="libopencm3 STM32F0xx General Purpose I/O " alt="" coords="152,5,207,32"/>
+<area shape="rect" id="node2" href="$group__dac__file.html" title="libopencm3 STM32F0xx DAC " alt="" coords="154,56,205,83"/>
+<area shape="rect" id="node3" href="$group__STM32F0xx-rcc-file.html" title="libopencm3 STM32F0xx Reset and Clock Control " alt="" coords="153,107,205,133"/>
+<area shape="rect" id="node4" href="$group__dma__file.html" title="libopencm3 STM32F0xx DMA " alt="" coords="153,157,205,184"/>
+<area shape="rect" id="node5" href="$group__comp__file.html" title="libopencm3 STM32F0xx COMP " alt="" coords="148,208,211,235"/>
+<area shape="rect" id="node6" href="$group__pwr__file.html" title="libopencm3 STM32F0xx Power Control " alt="" coords="152,259,207,285"/>
+<area shape="rect" id="node7" href="$group__rtc__file.html" title="libopencm3 STM32F0xx RTC " alt="" coords="154,309,205,336"/>
+<area shape="rect" id="node9" href="$group__flash__file.html" title="libopencm3 STM32F05x FLASH " alt="" coords="147,360,212,387"/>
+<area shape="rect" id="node10" href="$group__timer__file.html" title="libopencm3 STM32F0xx Timers " alt="" coords="148,411,211,437"/>
+</map>

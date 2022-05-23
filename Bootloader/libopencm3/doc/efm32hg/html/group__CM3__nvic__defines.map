@@ -1,0 +1,4 @@
+<map id="NVIC Defines" name="NVIC Defines">
+<area shape="rect" id="node1" href="$group__nvic__sysint.html" title="IRQ numbers &#45;3 and &#45;6 to &#45;9 are reserved. " alt="" coords="165,5,341,47"/>
+<area shape="rect" id="node3" href="$group__CM3__nvic__defines__EFM32HG.html" title="User interrupts for\l EFM32 Happy Gecko series" alt="" coords="157,71,348,112"/>
+</map>

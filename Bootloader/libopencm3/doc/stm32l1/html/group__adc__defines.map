@@ -1,0 +1,13 @@
+<map id="ADC Defines" name="ADC Defines">
+<area shape="rect" id="node1" href="$group__adc__trigger__regular.html" title="ADC Trigger Identifier\l for Regular group" alt="" coords="371,5,520,47"/>
+<area shape="rect" id="node2" href="$group__adc__channel.html" title="ADC Channel Numbers" alt="" coords="365,71,525,98"/>
+<area shape="rect" id="node3" href="$group__adc__trigger__polarity__injected.html" title="ADC Injected Trigger\l Polarity" alt="" coords="373,123,518,164"/>
+<area shape="rect" id="node4" href="$group__adc__cr1__res.html" title="ADC Resolution." alt="" coords="385,189,506,215"/>
+<area shape="rect" id="node5" href="$group__adc__trigger__polarity__regular.html" title="ADC Trigger Polarity" alt="" coords="374,239,517,266"/>
+<area shape="rect" id="node6" href="$group__adc__cr1__discnum.html" title="ADC Number of channels\l in discontinuous mode." alt="" coords="359,291,531,332"/>
+<area shape="rect" id="node7" href="$group__adc__jsqr__jl.html" title="ADC Number of channels\l in discontinuous injected mode" alt="" coords="343,356,548,397"/>
+<area shape="rect" id="node8" href="$group__adc__watchdog__channel.html" title="ADC watchdog channel" alt="" coords="365,422,525,449"/>
+<area shape="rect" id="node9" href="$group__adc__sample__rg.html" title="ADC Sample Time Selection\l for All Channels" alt="" coords="350,473,541,515"/>
+<area shape="rect" id="node10" href="$group__STM32L1xx__defines.html" title="Defined Constants and Types for the STM32L1xx series. " alt="" coords="5,269,147,295"/>
+<area shape="rect" id="node12" href="$group__adc__reg__base.html" title="ADC register base addresses" alt="" coords="348,539,543,566"/>
+</map>

@@ -1,0 +1,93 @@
+/home/caesar/Bootloader/libopencm3/lib/stm32/common/adc_common_v1.c:49: warning: multiple use of section label 'adc_api_ex' while adding section, (first occurrence: /home/caesar/Bootloader/libopencm3/lib/stm32/f1/adc.c, line 47)
+/home/caesar/Bootloader/libopencm3/lib/stm32/common/st_usbfs_core.c:46: warning: The following parameters of st_usbfs_set_ep_rx_bufsize(usbd_device *dev, uint8_t ep, uint32_t size) are not documented:
+  parameter 'dev'
+/home/caesar/Bootloader/libopencm3/lib/stm32/f1/rcc.c:299: warning: explicit link request to 'osc_t' could not be resolved
+/home/caesar/Bootloader/libopencm3/lib/stm32/f1/rcc.c:258: warning: explicit link request to 'osc_t' could not be resolved
+/home/caesar/Bootloader/libopencm3/lib/stm32/f1/rcc.c:65: warning: explicit link request to 'osc_t' could not be resolved
+/home/caesar/Bootloader/libopencm3/lib/stm32/f1/rcc.c:131: warning: explicit link request to 'osc_t' could not be resolved
+/home/caesar/Bootloader/libopencm3/lib/stm32/f1/rcc.c:98: warning: explicit link request to 'osc_t' could not be resolved
+/home/caesar/Bootloader/libopencm3/lib/stm32/f1/rcc.c:164: warning: explicit link request to 'osc_t' could not be resolved
+/home/caesar/Bootloader/libopencm3/lib/stm32/f1/rtc.c:242: warning: argument 'uint32_t' of command @param is not found in the argument list of rtc_set_counter_val(uint32_t counter_val)
+/home/caesar/Bootloader/libopencm3/include/libopencm3/stm32/f1/rtc.h:165: warning: The following parameters of rtc_set_counter_val(uint32_t counter_val) are not documented:
+  parameter 'counter_val'
+/home/caesar/Bootloader/libopencm3/lib/cm3/nvic.c:107: warning: unable to resolve reference to `nvic_stm32f1_userint' for \ref command
+/home/caesar/Bootloader/libopencm3/lib/cm3/nvic.c:65: warning: unable to resolve reference to `nvic_stm32f1_userint' for \ref command
+/home/caesar/Bootloader/libopencm3/lib/cm3/nvic.c:52: warning: unable to resolve reference to `nvic_stm32f1_userint' for \ref command
+/home/caesar/Bootloader/libopencm3/lib/cm3/nvic.c:120: warning: unable to resolve reference to `nvic_stm32f1_userint' for \ref command
+/home/caesar/Bootloader/libopencm3/lib/cm3/nvic.c:78: warning: unable to resolve reference to `nvic_stm32f1_userint' for \ref command
+/home/caesar/Bootloader/libopencm3/lib/cm3/nvic.c:93: warning: unable to resolve reference to `nvic_stm32f1_userint' for \ref command
+/home/caesar/Bootloader/libopencm3/lib/cm3/nvic.c:138: warning: unable to resolve reference to `scb_set_priority_grouping' for \ref command
+/home/caesar/Bootloader/libopencm3/lib/cm3/nvic.c:145: warning: unable to resolve reference to `nvic_stm32f1_userint' for \ref command
+/home/caesar/Bootloader/libopencm3/lib/cm3/systick.c:51: warning: Found unknown command `\seealso'
+/home/caesar/Bootloader/libopencm3/lib/ethernet/mac_stm32fxx7.c:370: warning: argument 'bits' of command @param is not found in the argument list of eth_smi_bit_set(uint8_t phy, uint8_t reg, uint16_t setbits)
+/home/caesar/Bootloader/libopencm3/include/libopencm3/ethernet/mac_stm32fxx7.h:733: warning: The following parameters of eth_smi_bit_set(uint8_t phy, uint8_t reg, uint16_t setbits) are not documented:
+  parameter 'setbits'
+/home/caesar/Bootloader/libopencm3/include/libopencm3/stm32/can.h:648: warning: The following parameters of can_init(uint32_t canport, bool ttcm, bool abom, bool awum, bool nart, bool rflm, bool txfp, uint32_t sjw, uint32_t ts1, uint32_t ts2, uint32_t brp, bool loopback, bool silent) are not documented:
+  parameter 'loopback'
+  parameter 'silent'
+/home/caesar/Bootloader/libopencm3/lib/stm32/can.c:456: warning: argument 'timestamp.' of command @param is not found in the argument list of can_receive(uint32_t canport, uint8_t fifo, bool release, uint32_t *id, bool *ext, bool *rtr, uint8_t *fmi, uint8_t *length, uint8_t *data, uint16_t *timestamp)
+/home/caesar/Bootloader/libopencm3/include/libopencm3/stm32/can.h:671: warning: The following parameters of can_receive(uint32_t canport, uint8_t fifo, bool release, uint32_t *id, bool *ext, bool *rtr, uint8_t *fmi, uint8_t *length, uint8_t *data, uint16_t *timestamp) are not documented:
+  parameter 'timestamp'
+/home/caesar/Bootloader/libopencm3/include/libopencm3/usb/usbd.h:195: warning: The following parameters of usbd_ep_nak_set(usbd_device *usbd_dev, uint8_t addr, uint8_t nak) are not documented:
+  parameter 'usbd_dev'
+/home/caesar/Bootloader/libopencm3/include/libopencm3/usb/usbd.h:176: warning: The following parameters of usbd_ep_read_packet(usbd_device *usbd_dev, uint8_t addr, void *buf, uint16_t len) are not documented:
+  parameter 'usbd_dev'
+  parameter 'buf'
+/home/caesar/Bootloader/libopencm3/include/libopencm3/usb/usbd.h:160: warning: The following parameters of usbd_ep_setup(usbd_device *usbd_dev, uint8_t addr, uint8_t type, uint16_t max_size, usbd_endpoint_callback callback) are not documented:
+  parameter 'usbd_dev'
+  parameter 'max_size'
+  parameter 'callback'
+/home/caesar/Bootloader/libopencm3/include/libopencm3/usb/usbd.h:189: warning: The following parameters of usbd_ep_stall_get(usbd_device *usbd_dev, uint8_t addr) are not documented:
+  parameter 'usbd_dev'
+/home/caesar/Bootloader/libopencm3/include/libopencm3/usb/usbd.h:182: warning: The following parameters of usbd_ep_stall_set(usbd_device *usbd_dev, uint8_t addr, uint8_t stall) are not documented:
+  parameter 'usbd_dev'
+/home/caesar/Bootloader/libopencm3/include/libopencm3/usb/usbd.h:168: warning: The following parameters of usbd_ep_write_packet(usbd_device *usbd_dev, uint8_t addr, const void *buf, uint16_t len) are not documented:
+  parameter 'usbd_dev'
+  parameter 'buf'
+/home/caesar/Bootloader/libopencm3/include/libopencm3/usb/usbd.h:87: warning: The following parameters of usbd_init(const usbd_driver *driver, const struct usb_device_descriptor *dev, const struct usb_config_descriptor *conf, const char **strings, int num_strings, uint8_t *control_buffer, uint16_t control_buffer_size) are not documented:
+  parameter 'num_strings'
+/home/caesar/Bootloader/libopencm3/include/libopencm3/usb/usbd.h:136: warning: The following parameters of usbd_register_control_callback(usbd_device *usbd_dev, uint8_t type, uint8_t type_mask, usbd_control_callback callback) are not documented:
+  parameter 'usbd_dev'
+  parameter 'callback'
+/home/caesar/Bootloader/libopencm3/lib/cm3/nvic.c:107: warning: unable to resolve reference to `nvic_stm32f1_userint' for \ref command
+/home/caesar/Bootloader/libopencm3/lib/cm3/nvic.c:65: warning: unable to resolve reference to `nvic_stm32f1_userint' for \ref command
+/home/caesar/Bootloader/libopencm3/lib/cm3/nvic.c:52: warning: unable to resolve reference to `nvic_stm32f1_userint' for \ref command
+/home/caesar/Bootloader/libopencm3/lib/cm3/nvic.c:120: warning: unable to resolve reference to `nvic_stm32f1_userint' for \ref command
+/home/caesar/Bootloader/libopencm3/lib/cm3/nvic.c:78: warning: unable to resolve reference to `nvic_stm32f1_userint' for \ref command
+/home/caesar/Bootloader/libopencm3/lib/cm3/nvic.c:93: warning: unable to resolve reference to `nvic_stm32f1_userint' for \ref command
+/home/caesar/Bootloader/libopencm3/lib/cm3/nvic.c:138: warning: unable to resolve reference to `scb_set_priority_grouping' for \ref command
+/home/caesar/Bootloader/libopencm3/lib/cm3/nvic.c:145: warning: unable to resolve reference to `nvic_stm32f1_userint' for \ref command
+/home/caesar/Bootloader/libopencm3/lib/cm3/systick.c:51: warning: Found unknown command `\seealso'
+/home/caesar/Bootloader/libopencm3/lib/ethernet/mac_stm32fxx7.c:370: warning: argument 'bits' of command @param is not found in the argument list of eth_smi_bit_set(uint8_t phy, uint8_t reg, uint16_t setbits)
+/home/caesar/Bootloader/libopencm3/lib/ethernet/mac_stm32fxx7.c:376: warning: The following parameters of eth_smi_bit_set(uint8_t phy, uint8_t reg, uint16_t setbits) are not documented:
+  parameter 'setbits'
+/home/caesar/Bootloader/libopencm3/lib/stm32/f1/rcc.c:299: warning: explicit link request to 'osc_t' could not be resolved
+/home/caesar/Bootloader/libopencm3/lib/stm32/f1/rcc.c:258: warning: explicit link request to 'osc_t' could not be resolved
+/home/caesar/Bootloader/libopencm3/lib/stm32/f1/rcc.c:65: warning: explicit link request to 'osc_t' could not be resolved
+/home/caesar/Bootloader/libopencm3/lib/stm32/f1/rcc.c:131: warning: explicit link request to 'osc_t' could not be resolved
+/home/caesar/Bootloader/libopencm3/lib/stm32/f1/rcc.c:98: warning: explicit link request to 'osc_t' could not be resolved
+/home/caesar/Bootloader/libopencm3/lib/stm32/f1/rcc.c:164: warning: explicit link request to 'osc_t' could not be resolved
+/home/caesar/Bootloader/libopencm3/lib/stm32/f1/rtc.c:242: warning: argument 'uint32_t' of command @param is not found in the argument list of rtc_set_counter_val(uint32_t counter_val)
+/home/caesar/Bootloader/libopencm3/lib/stm32/f1/rtc.c:247: warning: The following parameters of rtc_set_counter_val(uint32_t counter_val) are not documented:
+  parameter 'counter_val'
+/home/caesar/Bootloader/libopencm3/lib/usb/usb.c:151: warning: The following parameters of usbd_ep_nak_set(usbd_device *usbd_dev, uint8_t addr, uint8_t nak) are not documented:
+  parameter 'usbd_dev'
+/home/caesar/Bootloader/libopencm3/lib/usb/usb.c:135: warning: The following parameters of usbd_ep_read_packet(usbd_device *usbd_dev, uint8_t addr, void *buf, uint16_t len) are not documented:
+  parameter 'usbd_dev'
+  parameter 'buf'
+/home/caesar/Bootloader/libopencm3/lib/usb/usb.c:123: warning: The following parameters of usbd_ep_setup(usbd_device *usbd_dev, uint8_t addr, uint8_t type, uint16_t max_size, usbd_endpoint_callback callback) are not documented:
+  parameter 'usbd_dev'
+  parameter 'max_size'
+  parameter 'callback'
+/home/caesar/Bootloader/libopencm3/lib/usb/usb.c:146: warning: The following parameters of usbd_ep_stall_get(usbd_device *usbd_dev, uint8_t addr) are not documented:
+  parameter 'usbd_dev'
+/home/caesar/Bootloader/libopencm3/lib/usb/usb.c:141: warning: The following parameters of usbd_ep_stall_set(usbd_device *usbd_dev, uint8_t addr, uint8_t stall) are not documented:
+  parameter 'usbd_dev'
+/home/caesar/Bootloader/libopencm3/lib/usb/usb.c:129: warning: The following parameters of usbd_ep_write_packet(usbd_device *usbd_dev, uint8_t addr, const void *buf, uint16_t len) are not documented:
+  parameter 'usbd_dev'
+  parameter 'buf'
+/home/caesar/Bootloader/libopencm3/lib/usb/usb.c:42: warning: The following parameters of usbd_init(const usbd_driver *driver, const struct usb_device_descriptor *dev, const struct usb_config_descriptor *conf, const char **strings, int num_strings, uint8_t *control_buffer, uint16_t control_buffer_size) are not documented:
+  parameter 'num_strings'
+/home/caesar/Bootloader/libopencm3/lib/usb/usb_control.c:73: warning: The following parameters of usbd_register_control_callback(usbd_device *usbd_dev, uint8_t type, uint8_t type_mask, usbd_control_callback callback) are not documented:
+  parameter 'usbd_dev'
+  parameter 'callback'

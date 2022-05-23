@@ -1,0 +1,6 @@
+<map id="STM32F3xx" name="STM32F3xx">
+<area shape="rect" id="node1" href="$group__rcc__file.html" title="libopencm3 STM32F3xx Reset and Clock Control " alt="" coords="153,5,205,32"/>
+<area shape="rect" id="node3" href="$group__dma__file.html" title="libopencm3 STM32F3xx Direct Memory Access " alt="" coords="153,56,205,83"/>
+<area shape="rect" id="node4" href="$group__pwr__file.html" title="libopencm3 STM32F3xx Power Control " alt="" coords="152,107,207,133"/>
+<area shape="rect" id="node5" href="$group__flash__file.html" title="libopencm3 STM32F3xx FLASH " alt="" coords="147,157,212,184"/>
+</map>

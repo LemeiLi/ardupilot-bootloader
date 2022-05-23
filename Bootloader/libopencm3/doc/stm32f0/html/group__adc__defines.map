@@ -1,0 +1,9 @@
+<map id="ADC Defines" name="ADC Defines">
+<area shape="rect" id="node1" href="$group__adc__api__opmode.html" title="ADC Result API. " alt="" coords="364,5,519,32"/>
+<area shape="rect" id="node2" href="$group__adc__api__res.html" title="ADC resolutions" alt="" coords="382,56,501,83"/>
+<area shape="rect" id="node3" href="$group__adc__channel.html" title="ADC Channel Numbers" alt="" coords="361,107,521,133"/>
+<area shape="rect" id="node4" href="$group__adc__api__smptime.html" title="ADC sampling time" alt="" coords="373,157,509,184"/>
+<area shape="rect" id="node5" href="$group__STM32F0xx__defines.html" title="Defined Constants and Types for the STM32F0xx series. " alt="" coords="5,132,148,159"/>
+<area shape="rect" id="node6" href="$group__adc__api__clksource.html" title="ADC clock source" alt="" coords="377,208,506,235"/>
+<area shape="rect" id="node8" href="$group__adc__reg__base.html" title="ADC register base addresses" alt="" coords="344,259,539,285"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="STM32F7xx" name="STM32F7xx">
+<area shape="rect" id="node1" href="$group__gpio__file.html" title="libopencm3 STM32F7xx General Purpose I/O " alt="" coords="147,5,201,32"/>
+<area shape="rect" id="node3" href="$group__pwr__file.html" title="libopencm3 STM32F7xx Power Control " alt="" coords="147,56,201,83"/>
+</map>

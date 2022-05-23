@@ -1,0 +1,18 @@
+/home/caesar/Bootloader/libopencm3/lib/cm3/nvic.c:107: warning: unable to resolve reference to `nvic_stm32f1_userint' for \ref command
+/home/caesar/Bootloader/libopencm3/lib/cm3/nvic.c:65: warning: unable to resolve reference to `nvic_stm32f1_userint' for \ref command
+/home/caesar/Bootloader/libopencm3/lib/cm3/nvic.c:52: warning: unable to resolve reference to `nvic_stm32f1_userint' for \ref command
+/home/caesar/Bootloader/libopencm3/lib/cm3/nvic.c:120: warning: unable to resolve reference to `nvic_stm32f1_userint' for \ref command
+/home/caesar/Bootloader/libopencm3/lib/cm3/nvic.c:78: warning: unable to resolve reference to `nvic_stm32f1_userint' for \ref command
+/home/caesar/Bootloader/libopencm3/lib/cm3/nvic.c:93: warning: unable to resolve reference to `nvic_stm32f1_userint' for \ref command
+/home/caesar/Bootloader/libopencm3/lib/cm3/nvic.c:138: warning: unable to resolve reference to `scb_set_priority_grouping' for \ref command
+/home/caesar/Bootloader/libopencm3/lib/cm3/nvic.c:145: warning: unable to resolve reference to `nvic_stm32f1_userint' for \ref command
+/home/caesar/Bootloader/libopencm3/lib/cm3/systick.c:51: warning: Found unknown command `\seealso'
+/home/caesar/Bootloader/libopencm3/lib/cm3/nvic.c:107: warning: unable to resolve reference to `nvic_stm32f1_userint' for \ref command
+/home/caesar/Bootloader/libopencm3/lib/cm3/nvic.c:65: warning: unable to resolve reference to `nvic_stm32f1_userint' for \ref command
+/home/caesar/Bootloader/libopencm3/lib/cm3/nvic.c:52: warning: unable to resolve reference to `nvic_stm32f1_userint' for \ref command
+/home/caesar/Bootloader/libopencm3/lib/cm3/nvic.c:120: warning: unable to resolve reference to `nvic_stm32f1_userint' for \ref command
+/home/caesar/Bootloader/libopencm3/lib/cm3/nvic.c:78: warning: unable to resolve reference to `nvic_stm32f1_userint' for \ref command
+/home/caesar/Bootloader/libopencm3/lib/cm3/nvic.c:93: warning: unable to resolve reference to `nvic_stm32f1_userint' for \ref command
+/home/caesar/Bootloader/libopencm3/lib/cm3/nvic.c:138: warning: unable to resolve reference to `scb_set_priority_grouping' for \ref command
+/home/caesar/Bootloader/libopencm3/lib/cm3/nvic.c:145: warning: unable to resolve reference to `nvic_stm32f1_userint' for \ref command
+/home/caesar/Bootloader/libopencm3/lib/cm3/systick.c:51: warning: Found unknown command `\seealso'

@@ -1,0 +1,138 @@
+/home/caesar/Bootloader/libopencm3/lib/efm32/common/adc_common.c:637: warning: The following parameters of adc_set_calibration_scan_gain(uint32_t adc, uint8_t scan_gain) are not documented:
+  parameter 'scan_gain'
+/home/caesar/Bootloader/libopencm3/lib/efm32/common/adc_common.c:646: warning: The following parameters of adc_set_calibration_scan_offset(uint32_t adc, uint8_t scan_offset) are not documented:
+  parameter 'scan_offset'
+/home/caesar/Bootloader/libopencm3/lib/efm32/common/adc_common.c:655: warning: The following parameters of adc_set_calibration_single_gain(uint32_t adc, uint8_t single_gain) are not documented:
+  parameter 'single_gain'
+/home/caesar/Bootloader/libopencm3/lib/efm32/common/adc_common.c:664: warning: The following parameters of adc_set_calibration_single_offset(uint32_t adc, uint8_t single_offset) are not documented:
+  parameter 'single_offset'
+/home/caesar/Bootloader/libopencm3/include/libopencm3/efm32/common/adc_common.h:448: warning: The following parameters of adc_set_calibration_scan_gain(uint32_t adc, uint8_t scan_gain) are not documented:
+  parameter 'scan_gain'
+/home/caesar/Bootloader/libopencm3/include/libopencm3/efm32/common/adc_common.h:449: warning: The following parameters of adc_set_calibration_scan_offset(uint32_t adc, uint8_t scan_offset) are not documented:
+  parameter 'scan_offset'
+/home/caesar/Bootloader/libopencm3/include/libopencm3/efm32/common/adc_common.h:451: warning: The following parameters of adc_set_calibration_single_gain(uint32_t adc, uint8_t single_gain) are not documented:
+  parameter 'single_gain'
+/home/caesar/Bootloader/libopencm3/include/libopencm3/efm32/common/adc_common.h:452: warning: The following parameters of adc_set_calibration_single_offset(uint32_t adc, uint8_t single_offset) are not documented:
+  parameter 'single_offset'
+/home/caesar/Bootloader/libopencm3/lib/efm32/common/cmu_common.c:69: warning: argument 'periph' of command @param is not found in the argument list of cmu_periph_clock_disable(enum cmu_periph_clken clken)
+/home/caesar/Bootloader/libopencm3/lib/efm32/common/cmu_common.c:78: warning: The following parameters of cmu_periph_clock_disable(enum cmu_periph_clken clken) are not documented:
+  parameter 'clken'
+/home/caesar/Bootloader/libopencm3/lib/efm32/common/cmu_common.c:54: warning: argument 'periph' of command @param is not found in the argument list of cmu_periph_clock_enable(enum cmu_periph_clken clken)
+/home/caesar/Bootloader/libopencm3/lib/efm32/common/cmu_common.c:63: warning: The following parameters of cmu_periph_clock_enable(enum cmu_periph_clken clken) are not documented:
+  parameter 'clken'
+/home/caesar/Bootloader/libopencm3/lib/efm32/common/cmu_common.c:69: warning: argument 'periph' of command @param is not found in the argument list of cmu_periph_clock_disable(enum cmu_periph_clken clken)
+/home/caesar/Bootloader/libopencm3/include/libopencm3/efm32/common/cmu_common.h:677: warning: The following parameters of cmu_periph_clock_disable(enum cmu_periph_clken clken) are not documented:
+  parameter 'clken'
+/home/caesar/Bootloader/libopencm3/lib/efm32/common/cmu_common.c:54: warning: argument 'periph' of command @param is not found in the argument list of cmu_periph_clock_enable(enum cmu_periph_clken clken)
+/home/caesar/Bootloader/libopencm3/include/libopencm3/efm32/common/cmu_common.h:676: warning: The following parameters of cmu_periph_clock_enable(enum cmu_periph_clken clken) are not documented:
+  parameter 'clken'
+/home/caesar/Bootloader/libopencm3/lib/efm32/common/dac_common.c:140: warning: argument 'dac_ch' of command @param is not found in the argument list of dac_disable_auto_refresh(uint32_t dac, enum dac_ch ch)
+/home/caesar/Bootloader/libopencm3/lib/efm32/common/dac_common.c:145: warning: The following parameters of dac_disable_auto_refresh(uint32_t dac, enum dac_ch ch) are not documented:
+  parameter 'ch'
+/home/caesar/Bootloader/libopencm3/lib/efm32/common/dac_common.c:160: warning: argument 'dac_ch' of command @param is not found in the argument list of dac_disable_channel(uint32_t dac, enum dac_ch ch)
+/home/caesar/Bootloader/libopencm3/lib/efm32/common/dac_common.c:165: warning: The following parameters of dac_disable_channel(uint32_t dac, enum dac_ch ch) are not documented:
+  parameter 'ch'
+/home/caesar/Bootloader/libopencm3/lib/efm32/common/dac_common.c:120: warning: argument 'dac_ch' of command @param is not found in the argument list of dac_disable_prs_trigger(uint32_t dac, enum dac_ch ch)
+/home/caesar/Bootloader/libopencm3/lib/efm32/common/dac_common.c:125: warning: The following parameters of dac_disable_prs_trigger(uint32_t dac, enum dac_ch ch) are not documented:
+  parameter 'ch'
+/home/caesar/Bootloader/libopencm3/lib/efm32/common/dac_common.c:130: warning: argument 'dac_ch' of command @param is not found in the argument list of dac_enable_auto_refresh(uint32_t dac, enum dac_ch ch)
+/home/caesar/Bootloader/libopencm3/lib/efm32/common/dac_common.c:135: warning: The following parameters of dac_enable_auto_refresh(uint32_t dac, enum dac_ch ch) are not documented:
+  parameter 'ch'
+/home/caesar/Bootloader/libopencm3/lib/efm32/common/dac_common.c:150: warning: argument 'dac_ch' of command @param is not found in the argument list of dac_enable_channel(uint32_t dac, enum dac_ch ch)
+/home/caesar/Bootloader/libopencm3/lib/efm32/common/dac_common.c:155: warning: The following parameters of dac_enable_channel(uint32_t dac, enum dac_ch ch) are not documented:
+  parameter 'ch'
+/home/caesar/Bootloader/libopencm3/lib/efm32/common/dac_common.c:110: warning: argument 'dac_ch' of command @param is not found in the argument list of dac_enable_prs_trigger(uint32_t dac, enum dac_ch ch)
+/home/caesar/Bootloader/libopencm3/lib/efm32/common/dac_common.c:115: warning: The following parameters of dac_enable_prs_trigger(uint32_t dac, enum dac_ch ch) are not documented:
+  parameter 'ch'
+/home/caesar/Bootloader/libopencm3/lib/efm32/common/dac_common.c:95: warning: argument 'dac_ch' of command @param is not found in the argument list of dac_set_prs_trigger(uint32_t dac, enum dac_ch dac_chan, enum prs_ch prs_chan)
+/home/caesar/Bootloader/libopencm3/lib/efm32/common/dac_common.c:95: warning: argument 'prs_ch' of command @param is not found in the argument list of dac_set_prs_trigger(uint32_t dac, enum dac_ch dac_chan, enum prs_ch prs_chan)
+/home/caesar/Bootloader/libopencm3/lib/efm32/common/dac_common.c:101: warning: The following parameters of dac_set_prs_trigger(uint32_t dac, enum dac_ch dac_chan, enum prs_ch prs_chan) are not documented:
+  parameter 'dac_chan'
+  parameter 'prs_chan'
+/home/caesar/Bootloader/libopencm3/lib/efm32/common/dac_common.c:140: warning: argument 'dac_ch' of command @param is not found in the argument list of dac_disable_auto_refresh(uint32_t dac, enum dac_ch ch)
+/home/caesar/Bootloader/libopencm3/include/libopencm3/efm32/common/dac_common.h:504: warning: The following parameters of dac_disable_auto_refresh(uint32_t dac, enum dac_ch ch) are not documented:
+  parameter 'ch'
+/home/caesar/Bootloader/libopencm3/lib/efm32/common/dac_common.c:160: warning: argument 'dac_ch' of command @param is not found in the argument list of dac_disable_channel(uint32_t dac, enum dac_ch ch)
+/home/caesar/Bootloader/libopencm3/include/libopencm3/efm32/common/dac_common.h:507: warning: The following parameters of dac_disable_channel(uint32_t dac, enum dac_ch ch) are not documented:
+  parameter 'ch'
+/home/caesar/Bootloader/libopencm3/lib/efm32/common/dac_common.c:120: warning: argument 'dac_ch' of command @param is not found in the argument list of dac_disable_prs_trigger(uint32_t dac, enum dac_ch ch)
+/home/caesar/Bootloader/libopencm3/include/libopencm3/efm32/common/dac_common.h:502: warning: The following parameters of dac_disable_prs_trigger(uint32_t dac, enum dac_ch ch) are not documented:
+  parameter 'ch'
+/home/caesar/Bootloader/libopencm3/lib/efm32/common/dac_common.c:130: warning: argument 'dac_ch' of command @param is not found in the argument list of dac_enable_auto_refresh(uint32_t dac, enum dac_ch ch)
+/home/caesar/Bootloader/libopencm3/include/libopencm3/efm32/common/dac_common.h:503: warning: The following parameters of dac_enable_auto_refresh(uint32_t dac, enum dac_ch ch) are not documented:
+  parameter 'ch'
+/home/caesar/Bootloader/libopencm3/lib/efm32/common/dac_common.c:150: warning: argument 'dac_ch' of command @param is not found in the argument list of dac_enable_channel(uint32_t dac, enum dac_ch ch)
+/home/caesar/Bootloader/libopencm3/include/libopencm3/efm32/common/dac_common.h:506: warning: The following parameters of dac_enable_channel(uint32_t dac, enum dac_ch ch) are not documented:
+  parameter 'ch'
+/home/caesar/Bootloader/libopencm3/lib/efm32/common/dac_common.c:110: warning: argument 'dac_ch' of command @param is not found in the argument list of dac_enable_prs_trigger(uint32_t dac, enum dac_ch ch)
+/home/caesar/Bootloader/libopencm3/include/libopencm3/efm32/common/dac_common.h:501: warning: The following parameters of dac_enable_prs_trigger(uint32_t dac, enum dac_ch ch) are not documented:
+  parameter 'ch'
+/home/caesar/Bootloader/libopencm3/lib/efm32/common/dac_common.c:95: warning: argument 'dac_ch' of command @param is not found in the argument list of dac_set_prs_trigger(uint32_t dac, enum dac_ch dac_chan, enum prs_ch prs_chan)
+/home/caesar/Bootloader/libopencm3/lib/efm32/common/dac_common.c:95: warning: argument 'prs_ch' of command @param is not found in the argument list of dac_set_prs_trigger(uint32_t dac, enum dac_ch dac_chan, enum prs_ch prs_chan)
+/home/caesar/Bootloader/libopencm3/include/libopencm3/efm32/common/dac_common.h:499: warning: The following parameters of dac_set_prs_trigger(uint32_t dac, enum dac_ch dac_chan, enum prs_ch prs_chan) are not documented:
+  parameter 'dac_chan'
+  parameter 'prs_chan'
+/home/caesar/Bootloader/libopencm3/lib/efm32/common/dma_common.c:583: warning: argument 'this' of command @param is not found in the argument list of dma_desc_set_dest_address(uint32_t desc_base, enum dma_ch ch, uint32_t dest_start)
+/home/caesar/Bootloader/libopencm3/lib/efm32/common/dma_common.c:560: warning: argument 'this' of command @param is not found in the argument list of dma_desc_set_src_address(uint32_t desc_base, enum dma_ch ch, uint32_t src_start)
+/home/caesar/Bootloader/libopencm3/lib/efm32/common/dma_common.c:583: warning: argument 'this' of command @param is not found in the argument list of dma_desc_set_dest_address(uint32_t desc_base, enum dma_ch ch, uint32_t dest_start)
+/home/caesar/Bootloader/libopencm3/lib/efm32/common/dma_common.c:560: warning: argument 'this' of command @param is not found in the argument list of dma_desc_set_src_address(uint32_t desc_base, enum dma_ch ch, uint32_t src_start)
+/home/caesar/Bootloader/libopencm3/lib/cm3/nvic.c:107: warning: unable to resolve reference to `nvic_stm32f1_userint' for \ref command
+/home/caesar/Bootloader/libopencm3/lib/cm3/nvic.c:65: warning: unable to resolve reference to `nvic_stm32f1_userint' for \ref command
+/home/caesar/Bootloader/libopencm3/lib/cm3/nvic.c:52: warning: unable to resolve reference to `nvic_stm32f1_userint' for \ref command
+/home/caesar/Bootloader/libopencm3/lib/cm3/nvic.c:120: warning: unable to resolve reference to `nvic_stm32f1_userint' for \ref command
+/home/caesar/Bootloader/libopencm3/lib/cm3/nvic.c:78: warning: unable to resolve reference to `nvic_stm32f1_userint' for \ref command
+/home/caesar/Bootloader/libopencm3/lib/cm3/nvic.c:93: warning: unable to resolve reference to `nvic_stm32f1_userint' for \ref command
+/home/caesar/Bootloader/libopencm3/lib/cm3/nvic.c:138: warning: unable to resolve reference to `scb_set_priority_grouping' for \ref command
+/home/caesar/Bootloader/libopencm3/lib/cm3/nvic.c:145: warning: unable to resolve reference to `nvic_stm32f1_userint' for \ref command
+/home/caesar/Bootloader/libopencm3/lib/cm3/systick.c:51: warning: Found unknown command `\seealso'
+/home/caesar/Bootloader/libopencm3/include/libopencm3/usb/usbd.h:195: warning: The following parameters of usbd_ep_nak_set(usbd_device *usbd_dev, uint8_t addr, uint8_t nak) are not documented:
+  parameter 'usbd_dev'
+/home/caesar/Bootloader/libopencm3/include/libopencm3/usb/usbd.h:176: warning: The following parameters of usbd_ep_read_packet(usbd_device *usbd_dev, uint8_t addr, void *buf, uint16_t len) are not documented:
+  parameter 'usbd_dev'
+  parameter 'buf'
+/home/caesar/Bootloader/libopencm3/include/libopencm3/usb/usbd.h:160: warning: The following parameters of usbd_ep_setup(usbd_device *usbd_dev, uint8_t addr, uint8_t type, uint16_t max_size, usbd_endpoint_callback callback) are not documented:
+  parameter 'usbd_dev'
+  parameter 'max_size'
+  parameter 'callback'
+/home/caesar/Bootloader/libopencm3/include/libopencm3/usb/usbd.h:189: warning: The following parameters of usbd_ep_stall_get(usbd_device *usbd_dev, uint8_t addr) are not documented:
+  parameter 'usbd_dev'
+/home/caesar/Bootloader/libopencm3/include/libopencm3/usb/usbd.h:182: warning: The following parameters of usbd_ep_stall_set(usbd_device *usbd_dev, uint8_t addr, uint8_t stall) are not documented:
+  parameter 'usbd_dev'
+/home/caesar/Bootloader/libopencm3/include/libopencm3/usb/usbd.h:168: warning: The following parameters of usbd_ep_write_packet(usbd_device *usbd_dev, uint8_t addr, const void *buf, uint16_t len) are not documented:
+  parameter 'usbd_dev'
+  parameter 'buf'
+/home/caesar/Bootloader/libopencm3/include/libopencm3/usb/usbd.h:87: warning: The following parameters of usbd_init(const usbd_driver *driver, const struct usb_device_descriptor *dev, const struct usb_config_descriptor *conf, const char **strings, int num_strings, uint8_t *control_buffer, uint16_t control_buffer_size) are not documented:
+  parameter 'num_strings'
+/home/caesar/Bootloader/libopencm3/include/libopencm3/usb/usbd.h:136: warning: The following parameters of usbd_register_control_callback(usbd_device *usbd_dev, uint8_t type, uint8_t type_mask, usbd_control_callback callback) are not documented:
+  parameter 'usbd_dev'
+  parameter 'callback'
+/home/caesar/Bootloader/libopencm3/lib/cm3/nvic.c:107: warning: unable to resolve reference to `nvic_stm32f1_userint' for \ref command
+/home/caesar/Bootloader/libopencm3/lib/cm3/nvic.c:65: warning: unable to resolve reference to `nvic_stm32f1_userint' for \ref command
+/home/caesar/Bootloader/libopencm3/lib/cm3/nvic.c:52: warning: unable to resolve reference to `nvic_stm32f1_userint' for \ref command
+/home/caesar/Bootloader/libopencm3/lib/cm3/nvic.c:120: warning: unable to resolve reference to `nvic_stm32f1_userint' for \ref command
+/home/caesar/Bootloader/libopencm3/lib/cm3/nvic.c:78: warning: unable to resolve reference to `nvic_stm32f1_userint' for \ref command
+/home/caesar/Bootloader/libopencm3/lib/cm3/nvic.c:93: warning: unable to resolve reference to `nvic_stm32f1_userint' for \ref command
+/home/caesar/Bootloader/libopencm3/lib/cm3/nvic.c:138: warning: unable to resolve reference to `scb_set_priority_grouping' for \ref command
+/home/caesar/Bootloader/libopencm3/lib/cm3/nvic.c:145: warning: unable to resolve reference to `nvic_stm32f1_userint' for \ref command
+/home/caesar/Bootloader/libopencm3/lib/cm3/systick.c:51: warning: Found unknown command `\seealso'
+/home/caesar/Bootloader/libopencm3/lib/usb/usb.c:151: warning: The following parameters of usbd_ep_nak_set(usbd_device *usbd_dev, uint8_t addr, uint8_t nak) are not documented:
+  parameter 'usbd_dev'
+/home/caesar/Bootloader/libopencm3/lib/usb/usb.c:135: warning: The following parameters of usbd_ep_read_packet(usbd_device *usbd_dev, uint8_t addr, void *buf, uint16_t len) are not documented:
+  parameter 'usbd_dev'
+  parameter 'buf'
+/home/caesar/Bootloader/libopencm3/lib/usb/usb.c:123: warning: The following parameters of usbd_ep_setup(usbd_device *usbd_dev, uint8_t addr, uint8_t type, uint16_t max_size, usbd_endpoint_callback callback) are not documented:
+  parameter 'usbd_dev'
+  parameter 'max_size'
+  parameter 'callback'
+/home/caesar/Bootloader/libopencm3/lib/usb/usb.c:146: warning: The following parameters of usbd_ep_stall_get(usbd_device *usbd_dev, uint8_t addr) are not documented:
+  parameter 'usbd_dev'
+/home/caesar/Bootloader/libopencm3/lib/usb/usb.c:141: warning: The following parameters of usbd_ep_stall_set(usbd_device *usbd_dev, uint8_t addr, uint8_t stall) are not documented:
+  parameter 'usbd_dev'
+/home/caesar/Bootloader/libopencm3/lib/usb/usb.c:129: warning: The following parameters of usbd_ep_write_packet(usbd_device *usbd_dev, uint8_t addr, const void *buf, uint16_t len) are not documented:
+  parameter 'usbd_dev'
+  parameter 'buf'
+/home/caesar/Bootloader/libopencm3/lib/usb/usb.c:42: warning: The following parameters of usbd_init(const usbd_driver *driver, const struct usb_device_descriptor *dev, const struct usb_config_descriptor *conf, const char **strings, int num_strings, uint8_t *control_buffer, uint16_t control_buffer_size) are not documented:
+  parameter 'num_strings'
+/home/caesar/Bootloader/libopencm3/lib/usb/usb_control.c:73: warning: The following parameters of usbd_register_control_callback(usbd_device *usbd_dev, uint8_t type, uint8_t type_mask, usbd_control_callback callback) are not documented:
+  parameter 'usbd_dev'
+  parameter 'callback'

@@ -1,0 +1,5 @@
+<map id="ADC Defines" name="ADC Defines">
+<area shape="rect" id="node1" href="$group__STM32F3xx__defines.html" title="Defined Constants and Types for the STM32F3xx series. " alt="" coords="5,35,148,61"/>
+<area shape="rect" id="node2" href="$group__adc__channel.html" title="ADC Channel Numbers" alt="" coords="359,5,519,32"/>
+<area shape="rect" id="node4" href="$group__adc__sample.html" title="ADC Sample Time Selection\l values" alt="" coords="344,57,535,98"/>
+</map>

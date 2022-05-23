@@ -1,0 +1,99 @@
+/home/caesar/Bootloader/libopencm3/lib/lm4f/gpio.c:186: warning: Member gpio_enable_ahb_aperture found in multiple @defgroup groups! The member will be put in group gpio_config, and not in group gpio_file
+/home/caesar/Bootloader/libopencm3/lib/lm4f/gpio.c:441: warning: Member gpio_toggle found in multiple @defgroup groups! The member will be put in group gpio_control, and not in group gpio_file
+/home/caesar/Bootloader/libopencm3/lib/lm4f/gpio.c:527: warning: Member gpio_configure_trigger found in multiple @defgroup groups! The member will be put in group gpio_irq, and not in group gpio_file
+/home/caesar/Bootloader/libopencm3/lib/lm4f/uart.c:93: warning: Member uart_enable found in multiple @defgroup groups! The member will be put in group uart_config, and not in group uart_file
+/home/caesar/Bootloader/libopencm3/lib/lm4f/uart.c:275: warning: Member uart_send found in multiple @defgroup groups! The member will be put in group uart_send_recv, and not in group uart_file
+/home/caesar/Bootloader/libopencm3/lib/lm4f/uart.c:430: warning: Member uart_enable_interrupts found in multiple @defgroup groups! The member will be put in group uart_irq, and not in group uart_file
+/home/caesar/Bootloader/libopencm3/lib/lm4f/uart.c:527: warning: Member uart_enable_rx_dma found in multiple @defgroup groups! The member will be put in group uart_dma, and not in group uart_file
+/home/caesar/Bootloader/libopencm3/lib/lm4f/uart.c:594: warning: Member uart_enable_fifo found in multiple @defgroup groups! The member will be put in group uart_fifo, and not in group uart_file
+/home/caesar/Bootloader/libopencm3/lib/lm4f/rcc.c:254: warning: argument 'div' of command @param is not found in the argument list of rcc_set_pll_divisor(uint8_t div400)
+/home/caesar/Bootloader/libopencm3/include/libopencm3/lm4f/rcc.h:119: warning: The following parameters of rcc_set_pll_divisor(uint8_t div400) are not documented:
+  parameter 'div400'
+/home/caesar/Bootloader/libopencm3/lib/lm4f/rcc.c:418: warning: argument 'osc_src' of command @param is not found in the argument list of rcc_sysclk_config(enum osc_src src, enum xtal_t xtal, uint8_t pll_div400)
+/home/caesar/Bootloader/libopencm3/include/libopencm3/lm4f/rcc.h:127: warning: The following parameters of rcc_sysclk_config(enum osc_src src, enum xtal_t xtal, uint8_t pll_div400) are not documented:
+  parameter 'src'
+/home/caesar/Bootloader/libopencm3/include/libopencm3/lm4f/uart.h:460: warning: The following parameters of uart_send_blocking(uint32_t uart, uint16_t data) are not documented:
+  parameter 'data'
+/home/caesar/Bootloader/libopencm3/lib/lm4f/uart.c:169: warning: argument 'bits' of command @param is not found in the argument list of uart_set_parity(uint32_t uart, enum uart_parity parity)
+/home/caesar/Bootloader/libopencm3/include/libopencm3/lm4f/uart.h:448: warning: The following parameters of uart_set_parity(uint32_t uart, enum uart_parity parity) are not documented:
+  parameter 'parity'
+/home/caesar/Bootloader/libopencm3/lib/lm4f/uart.c:154: warning: argument 'bits' of command @param is not found in the argument list of uart_set_stopbits(uint32_t uart, uint8_t stopbits)
+/home/caesar/Bootloader/libopencm3/include/libopencm3/lm4f/uart.h:447: warning: The following parameters of uart_set_stopbits(uint32_t uart, uint8_t stopbits) are not documented:
+  parameter 'stopbits'
+/home/caesar/Bootloader/libopencm3/include/libopencm3/lm4f/gpio.h:319: warning: argument 'gpios' of command @param is not found in the argument list of gpio_port_write(uint32_t gpioport, uint8_t data)
+/home/caesar/Bootloader/libopencm3/lib/cm3/nvic.c:107: warning: unable to resolve reference to `nvic_stm32f1_userint' for \ref command
+/home/caesar/Bootloader/libopencm3/lib/cm3/nvic.c:65: warning: unable to resolve reference to `nvic_stm32f1_userint' for \ref command
+/home/caesar/Bootloader/libopencm3/lib/cm3/nvic.c:52: warning: unable to resolve reference to `nvic_stm32f1_userint' for \ref command
+/home/caesar/Bootloader/libopencm3/lib/cm3/nvic.c:120: warning: unable to resolve reference to `nvic_stm32f1_userint' for \ref command
+/home/caesar/Bootloader/libopencm3/lib/cm3/nvic.c:78: warning: unable to resolve reference to `nvic_stm32f1_userint' for \ref command
+/home/caesar/Bootloader/libopencm3/lib/cm3/nvic.c:93: warning: unable to resolve reference to `nvic_stm32f1_userint' for \ref command
+/home/caesar/Bootloader/libopencm3/lib/cm3/nvic.c:138: warning: unable to resolve reference to `scb_set_priority_grouping' for \ref command
+/home/caesar/Bootloader/libopencm3/lib/cm3/nvic.c:145: warning: unable to resolve reference to `nvic_stm32f1_userint' for \ref command
+/home/caesar/Bootloader/libopencm3/lib/cm3/systick.c:51: warning: Found unknown command `\seealso'
+/home/caesar/Bootloader/libopencm3/include/libopencm3/usb/usbd.h:195: warning: The following parameters of usbd_ep_nak_set(usbd_device *usbd_dev, uint8_t addr, uint8_t nak) are not documented:
+  parameter 'usbd_dev'
+/home/caesar/Bootloader/libopencm3/include/libopencm3/usb/usbd.h:176: warning: The following parameters of usbd_ep_read_packet(usbd_device *usbd_dev, uint8_t addr, void *buf, uint16_t len) are not documented:
+  parameter 'usbd_dev'
+  parameter 'buf'
+/home/caesar/Bootloader/libopencm3/include/libopencm3/usb/usbd.h:160: warning: The following parameters of usbd_ep_setup(usbd_device *usbd_dev, uint8_t addr, uint8_t type, uint16_t max_size, usbd_endpoint_callback callback) are not documented:
+  parameter 'usbd_dev'
+  parameter 'max_size'
+  parameter 'callback'
+/home/caesar/Bootloader/libopencm3/include/libopencm3/usb/usbd.h:189: warning: The following parameters of usbd_ep_stall_get(usbd_device *usbd_dev, uint8_t addr) are not documented:
+  parameter 'usbd_dev'
+/home/caesar/Bootloader/libopencm3/include/libopencm3/usb/usbd.h:182: warning: The following parameters of usbd_ep_stall_set(usbd_device *usbd_dev, uint8_t addr, uint8_t stall) are not documented:
+  parameter 'usbd_dev'
+/home/caesar/Bootloader/libopencm3/include/libopencm3/usb/usbd.h:168: warning: The following parameters of usbd_ep_write_packet(usbd_device *usbd_dev, uint8_t addr, const void *buf, uint16_t len) are not documented:
+  parameter 'usbd_dev'
+  parameter 'buf'
+/home/caesar/Bootloader/libopencm3/include/libopencm3/usb/usbd.h:87: warning: The following parameters of usbd_init(const usbd_driver *driver, const struct usb_device_descriptor *dev, const struct usb_config_descriptor *conf, const char **strings, int num_strings, uint8_t *control_buffer, uint16_t control_buffer_size) are not documented:
+  parameter 'num_strings'
+/home/caesar/Bootloader/libopencm3/include/libopencm3/usb/usbd.h:136: warning: The following parameters of usbd_register_control_callback(usbd_device *usbd_dev, uint8_t type, uint8_t type_mask, usbd_control_callback callback) are not documented:
+  parameter 'usbd_dev'
+  parameter 'callback'
+/home/caesar/Bootloader/libopencm3/lib/cm3/nvic.c:107: warning: unable to resolve reference to `nvic_stm32f1_userint' for \ref command
+/home/caesar/Bootloader/libopencm3/lib/cm3/nvic.c:65: warning: unable to resolve reference to `nvic_stm32f1_userint' for \ref command
+/home/caesar/Bootloader/libopencm3/lib/cm3/nvic.c:52: warning: unable to resolve reference to `nvic_stm32f1_userint' for \ref command
+/home/caesar/Bootloader/libopencm3/lib/cm3/nvic.c:120: warning: unable to resolve reference to `nvic_stm32f1_userint' for \ref command
+/home/caesar/Bootloader/libopencm3/lib/cm3/nvic.c:78: warning: unable to resolve reference to `nvic_stm32f1_userint' for \ref command
+/home/caesar/Bootloader/libopencm3/lib/cm3/nvic.c:93: warning: unable to resolve reference to `nvic_stm32f1_userint' for \ref command
+/home/caesar/Bootloader/libopencm3/lib/cm3/nvic.c:138: warning: unable to resolve reference to `scb_set_priority_grouping' for \ref command
+/home/caesar/Bootloader/libopencm3/lib/cm3/nvic.c:145: warning: unable to resolve reference to `nvic_stm32f1_userint' for \ref command
+/home/caesar/Bootloader/libopencm3/lib/cm3/systick.c:51: warning: Found unknown command `\seealso'
+/home/caesar/Bootloader/libopencm3/include/libopencm3/lm4f/gpio.h:319: warning: argument 'gpios' of command @param is not found in the argument list of gpio_port_write(uint32_t gpioport, uint8_t data)
+/home/caesar/Bootloader/libopencm3/lib/lm4f/gpio.c:450: warning: unable to resolve reference to `gpio_configure_int_trigger()' for \ref command
+/home/caesar/Bootloader/libopencm3/lib/lm4f/rcc.c:254: warning: argument 'div' of command @param is not found in the argument list of rcc_set_pll_divisor(uint8_t div400)
+/home/caesar/Bootloader/libopencm3/lib/lm4f/rcc.c:273: warning: The following parameters of rcc_set_pll_divisor(uint8_t div400) are not documented:
+  parameter 'div400'
+/home/caesar/Bootloader/libopencm3/lib/lm4f/rcc.c:418: warning: argument 'osc_src' of command @param is not found in the argument list of rcc_sysclk_config(enum osc_src src, enum xtal_t xtal, uint8_t pll_div400)
+/home/caesar/Bootloader/libopencm3/lib/lm4f/rcc.c:443: warning: The following parameters of rcc_sysclk_config(enum osc_src src, enum xtal_t xtal, uint8_t pll_div400) are not documented:
+  parameter 'src'
+/home/caesar/Bootloader/libopencm3/lib/lm4f/uart.c:169: warning: argument 'bits' of command @param is not found in the argument list of uart_set_parity(uint32_t uart, enum uart_parity parity)
+/home/caesar/Bootloader/libopencm3/lib/lm4f/uart.c:175: warning: The following parameters of uart_set_parity(uint32_t uart, enum uart_parity parity) are not documented:
+  parameter 'parity'
+/home/caesar/Bootloader/libopencm3/lib/lm4f/uart.c:154: warning: argument 'bits' of command @param is not found in the argument list of uart_set_stopbits(uint32_t uart, uint8_t stopbits)
+/home/caesar/Bootloader/libopencm3/lib/lm4f/uart.c:160: warning: The following parameters of uart_set_stopbits(uint32_t uart, uint8_t stopbits) are not documented:
+  parameter 'stopbits'
+/home/caesar/Bootloader/libopencm3/lib/lm4f/uart.c:330: warning: The following parameters of uart_send_blocking(uint32_t uart, uint16_t data) are not documented:
+  parameter 'data'
+/home/caesar/Bootloader/libopencm3/lib/usb/usb.c:151: warning: The following parameters of usbd_ep_nak_set(usbd_device *usbd_dev, uint8_t addr, uint8_t nak) are not documented:
+  parameter 'usbd_dev'
+/home/caesar/Bootloader/libopencm3/lib/usb/usb.c:135: warning: The following parameters of usbd_ep_read_packet(usbd_device *usbd_dev, uint8_t addr, void *buf, uint16_t len) are not documented:
+  parameter 'usbd_dev'
+  parameter 'buf'
+/home/caesar/Bootloader/libopencm3/lib/usb/usb.c:123: warning: The following parameters of usbd_ep_setup(usbd_device *usbd_dev, uint8_t addr, uint8_t type, uint16_t max_size, usbd_endpoint_callback callback) are not documented:
+  parameter 'usbd_dev'
+  parameter 'max_size'
+  parameter 'callback'
+/home/caesar/Bootloader/libopencm3/lib/usb/usb.c:146: warning: The following parameters of usbd_ep_stall_get(usbd_device *usbd_dev, uint8_t addr) are not documented:
+  parameter 'usbd_dev'
+/home/caesar/Bootloader/libopencm3/lib/usb/usb.c:141: warning: The following parameters of usbd_ep_stall_set(usbd_device *usbd_dev, uint8_t addr, uint8_t stall) are not documented:
+  parameter 'usbd_dev'
+/home/caesar/Bootloader/libopencm3/lib/usb/usb.c:129: warning: The following parameters of usbd_ep_write_packet(usbd_device *usbd_dev, uint8_t addr, const void *buf, uint16_t len) are not documented:
+  parameter 'usbd_dev'
+  parameter 'buf'
+/home/caesar/Bootloader/libopencm3/lib/usb/usb.c:42: warning: The following parameters of usbd_init(const usbd_driver *driver, const struct usb_device_descriptor *dev, const struct usb_config_descriptor *conf, const char **strings, int num_strings, uint8_t *control_buffer, uint16_t control_buffer_size) are not documented:
+  parameter 'num_strings'
+/home/caesar/Bootloader/libopencm3/lib/usb/usb_control.c:73: warning: The following parameters of usbd_register_control_callback(usbd_device *usbd_dev, uint8_t type, uint8_t type_mask, usbd_control_callback callback) are not documented:
+  parameter 'usbd_dev'
+  parameter 'callback'

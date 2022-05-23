@@ -1,0 +1,26 @@
+var modules =
+[
+    [ "User interrupt service routines (ISR) prototypes for STM32 L1 series", "group__CM3__nvic__isrprototypes__STM32L1.html", "group__CM3__nvic__isrprototypes__STM32L1" ],
+    [ "Peripheral APIs", "group__peripheral__apis.html", "group__peripheral__apis" ],
+    [ "STM32L1xx", "group__STM32L1xx.html", "group__STM32L1xx" ],
+    [ "STM32L1xx Defines", "group__STM32L1xx__defines.html", "group__STM32L1xx__defines" ],
+    [ "Debugging", "group__debugging.html", "group__debugging" ],
+    [ "NVIC Defines", "group__CM3__nvic__defines.html", "group__CM3__nvic__defines" ],
+    [ "SysTick Defines", "group__CM3__systick__defines.html", "group__CM3__systick__defines" ],
+    [ "USB Defines", "group__usb__defines.html", "group__usb__defines" ],
+    [ "USB MSC Type Definitions", "group__usb__msc__defines.html", "group__usb__msc__defines" ],
+    [ "USB Drivers", "group__usb__driver__defines.html", "group__usb__driver__defines" ],
+    [ "USB Standard Structure Definitions", "group__usb__type__defines.html", "group__usb__type__defines" ],
+    [ "User interrupt service routines (ISR) defaults for STM32 L1 series", "group__CM3__nvic__isrpragmas__STM32L1.html", null ],
+    [ "NVIC", "group__CM3__nvic__file.html", "group__CM3__nvic__file" ],
+    [ "SysTick", "group__CM3__systick__file.html", "group__CM3__systick__file" ],
+    [ "Generic USB Drivers", "group__usb__drivers__file.html", "group__usb__drivers__file" ],
+    [ "Generic USB Control Requests", "group__usb__control__file.html", "group__usb__control__file" ],
+    [ "Generic USB Standard Request Interface", "group__usb__standard__file.html", "group__usb__standard__file" ],
+    [ "Dac_file", "group__dac__file.html", "group__dac__file" ],
+    [ "Gpio_file", "group__gpio__file.html", "group__gpio__file" ],
+    [ "Pwr_file", "group__pwr__file.html", "group__pwr__file" ],
+    [ "Rtc_file", "group__rtc__file.html", "group__rtc__file" ],
+    [ "Timer_file", "group__timer__file.html", "group__timer__file" ],
+    [ "Usb_msc", "group__usb__msc.html", "group__usb__msc" ]
+];

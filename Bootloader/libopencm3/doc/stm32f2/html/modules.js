@@ -1,0 +1,28 @@
+var modules =
+[
+    [ "User interrupt service routines (ISR) prototypes for STM32 F2 series", "group__CM3__nvic__isrprototypes__STM32F2.html", "group__CM3__nvic__isrprototypes__STM32F2" ],
+    [ "Peripheral APIs", "group__peripheral__apis.html", "group__peripheral__apis" ],
+    [ "STM32F2xx", "group__STM32F2xx.html", "group__STM32F2xx" ],
+    [ "STM32F2xx Defines", "group__STM32F2xx__defines.html", "group__STM32F2xx__defines" ],
+    [ "Debugging", "group__debugging.html", "group__debugging" ],
+    [ "NVIC Defines", "group__CM3__nvic__defines.html", "group__CM3__nvic__defines" ],
+    [ "SysTick Defines", "group__CM3__systick__defines.html", "group__CM3__systick__defines" ],
+    [ "USB MSC Type Definitions", "group__usb__msc__defines.html", "group__usb__msc__defines" ],
+    [ "USB Drivers", "group__usb__driver__defines.html", "group__usb__driver__defines" ],
+    [ "USB Standard Structure Definitions", "group__usb__type__defines.html", "group__usb__type__defines" ],
+    [ "User interrupt service routines (ISR) defaults for STM32 F2 series", "group__CM3__nvic__isrpragmas__STM32F2.html", null ],
+    [ "NVIC", "group__CM3__nvic__file.html", "group__CM3__nvic__file" ],
+    [ "SysTick", "group__CM3__systick__file.html", "group__CM3__systick__file" ],
+    [ "Generic USB Drivers", "group__usb__drivers__file.html", "group__usb__drivers__file" ],
+    [ "Generic USB Control Requests", "group__usb__control__file.html", "group__usb__control__file" ],
+    [ "Generic USB Standard Request Interface", "group__usb__standard__file.html", "group__usb__standard__file" ],
+    [ "Rng_file", "group__rng__file.html", "group__rng__file" ],
+    [ "Crypto_file", "group__crypto__file.html", "group__crypto__file" ],
+    [ "Dac_file", "group__dac__file.html", "group__dac__file" ],
+    [ "Dma_file", "group__dma__file.html", "group__dma__file" ],
+    [ "Flash_file", "group__flash__file.html", "group__flash__file" ],
+    [ "Hash_file", "group__hash__file.html", "group__hash__file" ],
+    [ "Rtc_file", "group__rtc__file.html", "group__rtc__file" ],
+    [ "Timer_file", "group__timer__file.html", "group__timer__file" ],
+    [ "Usb_msc", "group__usb__msc.html", "group__usb__msc" ]
+];

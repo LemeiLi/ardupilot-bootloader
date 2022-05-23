@@ -1,0 +1,70 @@
+/home/caesar/Bootloader/libopencm3/include/libopencm3/stm32/l1/lcd.h:49: warning: Member LCD_CR found in multiple @defgroup groups! The member will be put in group lcd_reg_base, and not in group lcd_defines
+/home/caesar/Bootloader/libopencm3/lib/stm32/common/st_usbfs_core.c:46: warning: The following parameters of st_usbfs_set_ep_rx_bufsize(usbd_device *dev, uint8_t ep, uint32_t size) are not documented:
+  parameter 'dev'
+/home/caesar/Bootloader/libopencm3/lib/stm32/common/rcc_common_all.c:99: warning: unable to resolve reference to `rcc_ahbrstr_rst' for \ref command
+/home/caesar/Bootloader/libopencm3/lib/stm32/common/rcc_common_all.c:100: warning: unable to resolve reference to `rcc_apb1rstr_rst' for \ref command
+/home/caesar/Bootloader/libopencm3/lib/stm32/common/rcc_common_all.c:101: warning: unable to resolve reference to `rcc_apb2rstr_rst' for \ref command
+/home/caesar/Bootloader/libopencm3/lib/stm32/common/rcc_common_all.c:78: warning: unable to resolve reference to `rcc_ahbrstr_rst' for \ref command
+/home/caesar/Bootloader/libopencm3/lib/stm32/common/rcc_common_all.c:79: warning: unable to resolve reference to `rcc_apb1rstr_rst' for \ref command
+/home/caesar/Bootloader/libopencm3/lib/stm32/common/rcc_common_all.c:80: warning: unable to resolve reference to `rcc_apb2rstr_rst' for \ref command
+/home/caesar/Bootloader/libopencm3/lib/cm3/nvic.c:107: warning: unable to resolve reference to `nvic_stm32f1_userint' for \ref command
+/home/caesar/Bootloader/libopencm3/lib/cm3/nvic.c:65: warning: unable to resolve reference to `nvic_stm32f1_userint' for \ref command
+/home/caesar/Bootloader/libopencm3/lib/cm3/nvic.c:52: warning: unable to resolve reference to `nvic_stm32f1_userint' for \ref command
+/home/caesar/Bootloader/libopencm3/lib/cm3/nvic.c:120: warning: unable to resolve reference to `nvic_stm32f1_userint' for \ref command
+/home/caesar/Bootloader/libopencm3/lib/cm3/nvic.c:78: warning: unable to resolve reference to `nvic_stm32f1_userint' for \ref command
+/home/caesar/Bootloader/libopencm3/lib/cm3/nvic.c:93: warning: unable to resolve reference to `nvic_stm32f1_userint' for \ref command
+/home/caesar/Bootloader/libopencm3/lib/cm3/nvic.c:138: warning: unable to resolve reference to `scb_set_priority_grouping' for \ref command
+/home/caesar/Bootloader/libopencm3/lib/cm3/nvic.c:145: warning: unable to resolve reference to `nvic_stm32f1_userint' for \ref command
+/home/caesar/Bootloader/libopencm3/lib/cm3/systick.c:51: warning: Found unknown command `\seealso'
+/home/caesar/Bootloader/libopencm3/include/libopencm3/usb/usbd.h:195: warning: The following parameters of usbd_ep_nak_set(usbd_device *usbd_dev, uint8_t addr, uint8_t nak) are not documented:
+  parameter 'usbd_dev'
+/home/caesar/Bootloader/libopencm3/include/libopencm3/usb/usbd.h:176: warning: The following parameters of usbd_ep_read_packet(usbd_device *usbd_dev, uint8_t addr, void *buf, uint16_t len) are not documented:
+  parameter 'usbd_dev'
+  parameter 'buf'
+/home/caesar/Bootloader/libopencm3/include/libopencm3/usb/usbd.h:160: warning: The following parameters of usbd_ep_setup(usbd_device *usbd_dev, uint8_t addr, uint8_t type, uint16_t max_size, usbd_endpoint_callback callback) are not documented:
+  parameter 'usbd_dev'
+  parameter 'max_size'
+  parameter 'callback'
+/home/caesar/Bootloader/libopencm3/include/libopencm3/usb/usbd.h:189: warning: The following parameters of usbd_ep_stall_get(usbd_device *usbd_dev, uint8_t addr) are not documented:
+  parameter 'usbd_dev'
+/home/caesar/Bootloader/libopencm3/include/libopencm3/usb/usbd.h:182: warning: The following parameters of usbd_ep_stall_set(usbd_device *usbd_dev, uint8_t addr, uint8_t stall) are not documented:
+  parameter 'usbd_dev'
+/home/caesar/Bootloader/libopencm3/include/libopencm3/usb/usbd.h:168: warning: The following parameters of usbd_ep_write_packet(usbd_device *usbd_dev, uint8_t addr, const void *buf, uint16_t len) are not documented:
+  parameter 'usbd_dev'
+  parameter 'buf'
+/home/caesar/Bootloader/libopencm3/include/libopencm3/usb/usbd.h:87: warning: The following parameters of usbd_init(const usbd_driver *driver, const struct usb_device_descriptor *dev, const struct usb_config_descriptor *conf, const char **strings, int num_strings, uint8_t *control_buffer, uint16_t control_buffer_size) are not documented:
+  parameter 'num_strings'
+/home/caesar/Bootloader/libopencm3/include/libopencm3/usb/usbd.h:136: warning: The following parameters of usbd_register_control_callback(usbd_device *usbd_dev, uint8_t type, uint8_t type_mask, usbd_control_callback callback) are not documented:
+  parameter 'usbd_dev'
+  parameter 'callback'
+/home/caesar/Bootloader/libopencm3/lib/cm3/nvic.c:107: warning: unable to resolve reference to `nvic_stm32f1_userint' for \ref command
+/home/caesar/Bootloader/libopencm3/lib/cm3/nvic.c:65: warning: unable to resolve reference to `nvic_stm32f1_userint' for \ref command
+/home/caesar/Bootloader/libopencm3/lib/cm3/nvic.c:52: warning: unable to resolve reference to `nvic_stm32f1_userint' for \ref command
+/home/caesar/Bootloader/libopencm3/lib/cm3/nvic.c:120: warning: unable to resolve reference to `nvic_stm32f1_userint' for \ref command
+/home/caesar/Bootloader/libopencm3/lib/cm3/nvic.c:78: warning: unable to resolve reference to `nvic_stm32f1_userint' for \ref command
+/home/caesar/Bootloader/libopencm3/lib/cm3/nvic.c:93: warning: unable to resolve reference to `nvic_stm32f1_userint' for \ref command
+/home/caesar/Bootloader/libopencm3/lib/cm3/nvic.c:138: warning: unable to resolve reference to `scb_set_priority_grouping' for \ref command
+/home/caesar/Bootloader/libopencm3/lib/cm3/nvic.c:145: warning: unable to resolve reference to `nvic_stm32f1_userint' for \ref command
+/home/caesar/Bootloader/libopencm3/lib/cm3/systick.c:51: warning: Found unknown command `\seealso'
+/home/caesar/Bootloader/libopencm3/lib/usb/usb.c:151: warning: The following parameters of usbd_ep_nak_set(usbd_device *usbd_dev, uint8_t addr, uint8_t nak) are not documented:
+  parameter 'usbd_dev'
+/home/caesar/Bootloader/libopencm3/lib/usb/usb.c:135: warning: The following parameters of usbd_ep_read_packet(usbd_device *usbd_dev, uint8_t addr, void *buf, uint16_t len) are not documented:
+  parameter 'usbd_dev'
+  parameter 'buf'
+/home/caesar/Bootloader/libopencm3/lib/usb/usb.c:123: warning: The following parameters of usbd_ep_setup(usbd_device *usbd_dev, uint8_t addr, uint8_t type, uint16_t max_size, usbd_endpoint_callback callback) are not documented:
+  parameter 'usbd_dev'
+  parameter 'max_size'
+  parameter 'callback'
+/home/caesar/Bootloader/libopencm3/lib/usb/usb.c:146: warning: The following parameters of usbd_ep_stall_get(usbd_device *usbd_dev, uint8_t addr) are not documented:
+  parameter 'usbd_dev'
+/home/caesar/Bootloader/libopencm3/lib/usb/usb.c:141: warning: The following parameters of usbd_ep_stall_set(usbd_device *usbd_dev, uint8_t addr, uint8_t stall) are not documented:
+  parameter 'usbd_dev'
+/home/caesar/Bootloader/libopencm3/lib/usb/usb.c:129: warning: The following parameters of usbd_ep_write_packet(usbd_device *usbd_dev, uint8_t addr, const void *buf, uint16_t len) are not documented:
+  parameter 'usbd_dev'
+  parameter 'buf'
+/home/caesar/Bootloader/libopencm3/lib/usb/usb.c:42: warning: The following parameters of usbd_init(const usbd_driver *driver, const struct usb_device_descriptor *dev, const struct usb_config_descriptor *conf, const char **strings, int num_strings, uint8_t *control_buffer, uint16_t control_buffer_size) are not documented:
+  parameter 'num_strings'
+/home/caesar/Bootloader/libopencm3/lib/usb/usb_control.c:73: warning: The following parameters of usbd_register_control_callback(usbd_device *usbd_dev, uint8_t type, uint8_t type_mask, usbd_control_callback callback) are not documented:
+  parameter 'usbd_dev'
+  parameter 'callback'
+/home/caesar/Bootloader/libopencm3/lib/stm32/l1/adc.c:179: warning: unable to resolve reference to `adc_trigger_injected' for \ref command

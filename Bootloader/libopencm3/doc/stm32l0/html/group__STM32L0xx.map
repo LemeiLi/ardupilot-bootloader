@@ -1,0 +1,4 @@
+<map id="STM32L0xx" name="STM32L0xx">
+<area shape="rect" id="node1" href="$group__gpio__file.html" title="libopencm3 STM32L0xx General Purpose I/O " alt="" coords="145,5,200,32"/>
+<area shape="rect" id="node2" href="$group__STM32L0xx-rcc-file.html" title="libopencm3 STM32L0xx Reset and Clock Control " alt="" coords="147,56,199,83"/>
+</map>

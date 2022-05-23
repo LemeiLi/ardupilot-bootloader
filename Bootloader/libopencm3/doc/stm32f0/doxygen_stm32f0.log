@@ -1,0 +1,217 @@
+/home/caesar/Bootloader/libopencm3/lib/stm32/f0/adc.c:37: warning: group adc_api_opmode: ignoring title "ADC Operation mode API" that does not match old title "ADC Operation Modes"
+
+/home/caesar/Bootloader/libopencm3/lib/stm32/common/st_usbfs_core.c:46: warning: The following parameters of st_usbfs_set_ep_rx_bufsize(usbd_device *dev, uint8_t ep, uint32_t size) are not documented:
+  parameter 'dev'
+/home/caesar/Bootloader/libopencm3/lib/stm32/common/rcc_common_all.c:237: warning: unable to resolve reference to `rcc_backupdomain_reset' for \ref command
+/home/caesar/Bootloader/libopencm3/lib/stm32/f0/rcc.c:279: warning: explicit link request to 'osc_t' could not be resolved
+/home/caesar/Bootloader/libopencm3/lib/stm32/f0/rcc.c:241: warning: explicit link request to 'osc_t' could not be resolved
+/home/caesar/Bootloader/libopencm3/lib/stm32/f0/rcc.c:52: warning: explicit link request to 'osc_t' could not be resolved
+/home/caesar/Bootloader/libopencm3/lib/stm32/f0/rcc.c:118: warning: explicit link request to 'osc_t' could not be resolved
+/home/caesar/Bootloader/libopencm3/lib/stm32/f0/rcc.c:85: warning: explicit link request to 'osc_t' could not be resolved
+/home/caesar/Bootloader/libopencm3/lib/stm32/f0/rcc.c:151: warning: explicit link request to 'osc_t' could not be resolved
+/home/caesar/Bootloader/libopencm3/lib/stm32/common/rcc_common_all.c:99: warning: unable to resolve reference to `rcc_ahbrstr_rst' for \ref command
+/home/caesar/Bootloader/libopencm3/lib/stm32/common/rcc_common_all.c:100: warning: unable to resolve reference to `rcc_apb1rstr_rst' for \ref command
+/home/caesar/Bootloader/libopencm3/lib/stm32/common/rcc_common_all.c:101: warning: unable to resolve reference to `rcc_apb2rstr_rst' for \ref command
+/home/caesar/Bootloader/libopencm3/lib/stm32/common/rcc_common_all.c:58: warning: unable to resolve reference to `rcc_ahbenr_en' for \ref command
+/home/caesar/Bootloader/libopencm3/lib/stm32/common/rcc_common_all.c:59: warning: unable to resolve reference to `rcc_apb1enr_en' for \ref command
+/home/caesar/Bootloader/libopencm3/lib/stm32/common/rcc_common_all.c:60: warning: unable to resolve reference to `rcc_apb2enr_en' for \ref command
+/home/caesar/Bootloader/libopencm3/lib/stm32/common/rcc_common_all.c:36: warning: unable to resolve reference to `rcc_ahbenr_en' for \ref command
+/home/caesar/Bootloader/libopencm3/lib/stm32/common/rcc_common_all.c:37: warning: unable to resolve reference to `rcc_apb1enr_en' for \ref command
+/home/caesar/Bootloader/libopencm3/lib/stm32/common/rcc_common_all.c:38: warning: unable to resolve reference to `rcc_apb2enr_en' for \ref command
+/home/caesar/Bootloader/libopencm3/lib/stm32/common/rcc_common_all.c:78: warning: unable to resolve reference to `rcc_ahbrstr_rst' for \ref command
+/home/caesar/Bootloader/libopencm3/lib/stm32/common/rcc_common_all.c:79: warning: unable to resolve reference to `rcc_apb1rstr_rst' for \ref command
+/home/caesar/Bootloader/libopencm3/lib/stm32/common/rcc_common_all.c:80: warning: unable to resolve reference to `rcc_apb2rstr_rst' for \ref command
+/home/caesar/Bootloader/libopencm3/lib/stm32/f0/rcc.c:481: warning: unable to resolve reference to `rcc_cfgr_ahbpre' for \ref command
+/home/caesar/Bootloader/libopencm3/lib/stm32/f0/rcc.c:431: warning: unable to resolve reference to `rcc_cfgr_pmf' for \ref command
+/home/caesar/Bootloader/libopencm3/lib/stm32/f0/rcc.c:444: warning: unable to resolve reference to `rcc_cfgr_pcs' for \ref command
+/home/caesar/Bootloader/libopencm3/lib/stm32/f0/rcc.c:458: warning: unable to resolve reference to `rcc_cfgr_hsepre' for \ref command
+/home/caesar/Bootloader/libopencm3/lib/stm32/f0/rcc.c:470: warning: argument 'ppre1' of command @param is not found in the argument list of rcc_set_ppre(uint32_t ppre)
+/home/caesar/Bootloader/libopencm3/lib/stm32/f0/rcc.c:470: warning: unable to resolve reference to `rcc_cfgr_apb1pre' for \ref command
+/home/caesar/Bootloader/libopencm3/include/libopencm3/stm32/f0/rcc.h:532: warning: The following parameters of rcc_set_ppre(uint32_t ppre) are not documented:
+  parameter 'ppre'
+/home/caesar/Bootloader/libopencm3/lib/stm32/f0/rcc.c:403: warning: argument 'clock_source' of command @param is not found in the argument list of rcc_set_rtc_clock_source(enum rcc_osc clk)
+/home/caesar/Bootloader/libopencm3/include/libopencm3/stm32/f0/rcc.h:526: warning: The following parameters of rcc_set_rtc_clock_source(enum rcc_osc clk) are not documented:
+  parameter 'clk'
+/home/caesar/Bootloader/libopencm3/lib/stm32/f0/rcc.c:330: warning: argument 'osc' of command @param is not found in the argument list of rcc_set_sysclk_source(enum rcc_osc clk)
+/home/caesar/Bootloader/libopencm3/lib/stm32/f0/rcc.c:330: warning: explicit link request to 'osc_t' could not be resolved
+/home/caesar/Bootloader/libopencm3/include/libopencm3/stm32/f0/rcc.h:524: warning: The following parameters of rcc_set_sysclk_source(enum rcc_osc clk) are not documented:
+  parameter 'clk'
+/home/caesar/Bootloader/libopencm3/lib/stm32/f0/rcc.c:360: warning: argument 'osc' of command @param is not found in the argument list of rcc_set_usbclk_source(enum rcc_osc clk)
+/home/caesar/Bootloader/libopencm3/lib/stm32/f0/rcc.c:360: warning: explicit link request to 'osc_t' could not be resolved
+/home/caesar/Bootloader/libopencm3/include/libopencm3/stm32/f0/rcc.h:525: warning: The following parameters of rcc_set_usbclk_source(enum rcc_osc clk) are not documented:
+  parameter 'clk'
+/home/caesar/Bootloader/libopencm3/lib/stm32/f0/rcc.c:504: warning: explicit link request to 'osc_t' could not be resolved
+/home/caesar/Bootloader/libopencm3/lib/stm32/f0/rcc.c:546: warning: explicit link request to 'osc_t' could not be resolved
+/home/caesar/Bootloader/libopencm3/lib/stm32/common/usart_common_all.c:191: warning: unable to resolve reference to `usart_reg_base' for \ref command
+/home/caesar/Bootloader/libopencm3/lib/stm32/common/usart_common_all.c:358: warning: unable to resolve reference to `usart_reg_base' for \ref command
+/home/caesar/Bootloader/libopencm3/lib/stm32/common/usart_common_all.c:255: warning: unable to resolve reference to `usart_reg_base' for \ref command
+/home/caesar/Bootloader/libopencm3/lib/stm32/common/usart_common_all.c:310: warning: unable to resolve reference to `usart_reg_base' for \ref command
+/home/caesar/Bootloader/libopencm3/lib/stm32/common/usart_common_all.c:285: warning: unable to resolve reference to `usart_reg_base' for \ref command
+/home/caesar/Bootloader/libopencm3/lib/stm32/common/usart_common_all.c:334: warning: unable to resolve reference to `usart_reg_base' for \ref command
+/home/caesar/Bootloader/libopencm3/lib/stm32/common/usart_common_all.c:177: warning: unable to resolve reference to `usart_reg_base' for \ref command
+/home/caesar/Bootloader/libopencm3/lib/stm32/common/usart_common_all.c:346: warning: unable to resolve reference to `usart_reg_base' for \ref command
+/home/caesar/Bootloader/libopencm3/lib/stm32/common/usart_common_all.c:243: warning: unable to resolve reference to `usart_reg_base' for \ref command
+/home/caesar/Bootloader/libopencm3/lib/stm32/common/usart_common_all.c:297: warning: unable to resolve reference to `usart_reg_base' for \ref command
+/home/caesar/Bootloader/libopencm3/lib/stm32/common/usart_common_all.c:273: warning: unable to resolve reference to `usart_reg_base' for \ref command
+/home/caesar/Bootloader/libopencm3/lib/stm32/common/usart_common_all.c:322: warning: unable to resolve reference to `usart_reg_base' for \ref command
+/home/caesar/Bootloader/libopencm3/lib/stm32/common/usart_common_v2.c:295: warning: unable to resolve reference to `usart_reg_base' for \ref command
+/home/caesar/Bootloader/libopencm3/lib/stm32/common/usart_common_v2.c:296: warning: unable to resolve reference to `usart_sr_flags' for \ref command
+/home/caesar/Bootloader/libopencm3/lib/stm32/common/usart_common_v2.c:250: warning: unable to resolve reference to `usart_reg_base' for \ref command
+/home/caesar/Bootloader/libopencm3/lib/stm32/common/usart_common_all.c:222: warning: unable to resolve reference to `usart_reg_base' for \ref command
+/home/caesar/Bootloader/libopencm3/lib/stm32/common/usart_common_v2.c:233: warning: unable to resolve reference to `usart_reg_base' for \ref command
+/home/caesar/Bootloader/libopencm3/lib/stm32/common/usart_common_all.c:204: warning: unable to resolve reference to `usart_reg_base' for \ref command
+/home/caesar/Bootloader/libopencm3/lib/stm32/common/usart_common_all.c:46: warning: unable to resolve reference to `usart_reg_base' for \ref command
+/home/caesar/Bootloader/libopencm3/lib/stm32/common/usart_common_all.c:84: warning: unable to resolve reference to `usart_reg_base' for \ref command
+/home/caesar/Bootloader/libopencm3/lib/stm32/common/usart_common_all.c:160: warning: unable to resolve reference to `usart_reg_base' for \ref command
+/home/caesar/Bootloader/libopencm3/lib/stm32/common/usart_common_all.c:141: warning: unable to resolve reference to `usart_reg_base' for \ref command
+/home/caesar/Bootloader/libopencm3/lib/stm32/common/usart_common_all.c:122: warning: unable to resolve reference to `usart_reg_base' for \ref command
+/home/caesar/Bootloader/libopencm3/lib/stm32/common/usart_common_all.c:103: warning: unable to resolve reference to `usart_reg_base' for \ref command
+/home/caesar/Bootloader/libopencm3/lib/stm32/common/usart_common_v2.c:280: warning: unable to resolve reference to `usart_reg_base' for \ref command
+/home/caesar/Bootloader/libopencm3/lib/stm32/common/usart_common_v2.c:265: warning: unable to resolve reference to `usart_reg_base' for \ref command
+/home/caesar/Bootloader/libopencm3/lib/stm32/f0/adc.c:154: warning: Found unknown command `\parADC'
+/home/caesar/Bootloader/libopencm3/lib/stm32/f0/adc.c:123: warning: The following parameters of adc_set_operation_mode(uint32_t adc, enum adc_opmode opmode) are not documented:
+  parameter 'opmode'
+/home/caesar/Bootloader/libopencm3/lib/stm32/common/crc_v2.c:71: warning: unable to resolve reference to `crc_polysize' for \ref command
+/home/caesar/Bootloader/libopencm3/lib/stm32/common/crc_v2.c:59: warning: unable to resolve reference to `crc_rev_in' for \ref command
+/home/caesar/Bootloader/libopencm3/lib/cm3/nvic.c:107: warning: unable to resolve reference to `nvic_stm32f1_userint' for \ref command
+/home/caesar/Bootloader/libopencm3/lib/cm3/nvic.c:65: warning: unable to resolve reference to `nvic_stm32f1_userint' for \ref command
+/home/caesar/Bootloader/libopencm3/lib/cm3/nvic.c:52: warning: unable to resolve reference to `nvic_stm32f1_userint' for \ref command
+/home/caesar/Bootloader/libopencm3/lib/cm3/nvic.c:120: warning: unable to resolve reference to `nvic_stm32f1_userint' for \ref command
+/home/caesar/Bootloader/libopencm3/lib/cm3/nvic.c:78: warning: unable to resolve reference to `nvic_stm32f1_userint' for \ref command
+/home/caesar/Bootloader/libopencm3/lib/cm3/nvic.c:93: warning: unable to resolve reference to `nvic_stm32f1_userint' for \ref command
+/home/caesar/Bootloader/libopencm3/lib/cm3/nvic.c:138: warning: unable to resolve reference to `scb_set_priority_grouping' for \ref command
+/home/caesar/Bootloader/libopencm3/lib/cm3/nvic.c:145: warning: unable to resolve reference to `nvic_stm32f1_userint' for \ref command
+/home/caesar/Bootloader/libopencm3/lib/cm3/systick.c:51: warning: Found unknown command `\seealso'
+/home/caesar/Bootloader/libopencm3/include/libopencm3/stm32/can.h:648: warning: The following parameters of can_init(uint32_t canport, bool ttcm, bool abom, bool awum, bool nart, bool rflm, bool txfp, uint32_t sjw, uint32_t ts1, uint32_t ts2, uint32_t brp, bool loopback, bool silent) are not documented:
+  parameter 'loopback'
+  parameter 'silent'
+/home/caesar/Bootloader/libopencm3/lib/stm32/can.c:456: warning: argument 'timestamp.' of command @param is not found in the argument list of can_receive(uint32_t canport, uint8_t fifo, bool release, uint32_t *id, bool *ext, bool *rtr, uint8_t *fmi, uint8_t *length, uint8_t *data, uint16_t *timestamp)
+/home/caesar/Bootloader/libopencm3/include/libopencm3/stm32/can.h:671: warning: The following parameters of can_receive(uint32_t canport, uint8_t fifo, bool release, uint32_t *id, bool *ext, bool *rtr, uint8_t *fmi, uint8_t *length, uint8_t *data, uint16_t *timestamp) are not documented:
+  parameter 'timestamp'
+/home/caesar/Bootloader/libopencm3/include/libopencm3/usb/usbd.h:195: warning: The following parameters of usbd_ep_nak_set(usbd_device *usbd_dev, uint8_t addr, uint8_t nak) are not documented:
+  parameter 'usbd_dev'
+/home/caesar/Bootloader/libopencm3/include/libopencm3/usb/usbd.h:176: warning: The following parameters of usbd_ep_read_packet(usbd_device *usbd_dev, uint8_t addr, void *buf, uint16_t len) are not documented:
+  parameter 'usbd_dev'
+  parameter 'buf'
+/home/caesar/Bootloader/libopencm3/include/libopencm3/usb/usbd.h:160: warning: The following parameters of usbd_ep_setup(usbd_device *usbd_dev, uint8_t addr, uint8_t type, uint16_t max_size, usbd_endpoint_callback callback) are not documented:
+  parameter 'usbd_dev'
+  parameter 'max_size'
+  parameter 'callback'
+/home/caesar/Bootloader/libopencm3/include/libopencm3/usb/usbd.h:189: warning: The following parameters of usbd_ep_stall_get(usbd_device *usbd_dev, uint8_t addr) are not documented:
+  parameter 'usbd_dev'
+/home/caesar/Bootloader/libopencm3/include/libopencm3/usb/usbd.h:182: warning: The following parameters of usbd_ep_stall_set(usbd_device *usbd_dev, uint8_t addr, uint8_t stall) are not documented:
+  parameter 'usbd_dev'
+/home/caesar/Bootloader/libopencm3/include/libopencm3/usb/usbd.h:168: warning: The following parameters of usbd_ep_write_packet(usbd_device *usbd_dev, uint8_t addr, const void *buf, uint16_t len) are not documented:
+  parameter 'usbd_dev'
+  parameter 'buf'
+/home/caesar/Bootloader/libopencm3/include/libopencm3/usb/usbd.h:87: warning: The following parameters of usbd_init(const usbd_driver *driver, const struct usb_device_descriptor *dev, const struct usb_config_descriptor *conf, const char **strings, int num_strings, uint8_t *control_buffer, uint16_t control_buffer_size) are not documented:
+  parameter 'num_strings'
+/home/caesar/Bootloader/libopencm3/include/libopencm3/usb/usbd.h:136: warning: The following parameters of usbd_register_control_callback(usbd_device *usbd_dev, uint8_t type, uint8_t type_mask, usbd_control_callback callback) are not documented:
+  parameter 'usbd_dev'
+  parameter 'callback'
+/home/caesar/Bootloader/libopencm3/lib/stm32/f0/adc.c:161: warning: unable to resolve reference to `adc_trigger_regular' for \ref command
+/home/caesar/Bootloader/libopencm3/lib/stm32/f0/adc.c:163: warning: unable to resolve reference to `adc_trigger_polarity_regular' for \ref command
+/home/caesar/Bootloader/libopencm3/lib/stm32/f0/adc.c:294: warning: argument 'prescale' of command @param is not found in the argument list of adc_set_clk_source(uint32_t adc, uint32_t source)
+/home/caesar/Bootloader/libopencm3/lib/stm32/f0/adc.c:302: warning: The following parameters of adc_set_clk_source(uint32_t adc, uint32_t source) are not documented:
+  parameter 'source'
+/home/caesar/Bootloader/libopencm3/lib/stm32/f0/adc.c:482: warning: unable to resolve reference to `adc_api_channel' for \ref command
+/home/caesar/Bootloader/libopencm3/lib/cm3/nvic.c:107: warning: unable to resolve reference to `nvic_stm32f1_userint' for \ref command
+/home/caesar/Bootloader/libopencm3/lib/cm3/nvic.c:65: warning: unable to resolve reference to `nvic_stm32f1_userint' for \ref command
+/home/caesar/Bootloader/libopencm3/lib/cm3/nvic.c:52: warning: unable to resolve reference to `nvic_stm32f1_userint' for \ref command
+/home/caesar/Bootloader/libopencm3/lib/cm3/nvic.c:120: warning: unable to resolve reference to `nvic_stm32f1_userint' for \ref command
+/home/caesar/Bootloader/libopencm3/lib/cm3/nvic.c:78: warning: unable to resolve reference to `nvic_stm32f1_userint' for \ref command
+/home/caesar/Bootloader/libopencm3/lib/cm3/nvic.c:93: warning: unable to resolve reference to `nvic_stm32f1_userint' for \ref command
+/home/caesar/Bootloader/libopencm3/lib/cm3/nvic.c:138: warning: unable to resolve reference to `scb_set_priority_grouping' for \ref command
+/home/caesar/Bootloader/libopencm3/lib/cm3/nvic.c:145: warning: unable to resolve reference to `nvic_stm32f1_userint' for \ref command
+/home/caesar/Bootloader/libopencm3/lib/cm3/systick.c:51: warning: Found unknown command `\seealso'
+/home/caesar/Bootloader/libopencm3/lib/stm32/f0/rcc.c:279: warning: explicit link request to 'osc_t' could not be resolved
+/home/caesar/Bootloader/libopencm3/lib/stm32/f0/rcc.c:241: warning: explicit link request to 'osc_t' could not be resolved
+/home/caesar/Bootloader/libopencm3/lib/stm32/f0/rcc.c:52: warning: explicit link request to 'osc_t' could not be resolved
+/home/caesar/Bootloader/libopencm3/lib/stm32/f0/rcc.c:118: warning: explicit link request to 'osc_t' could not be resolved
+/home/caesar/Bootloader/libopencm3/lib/stm32/f0/rcc.c:85: warning: explicit link request to 'osc_t' could not be resolved
+/home/caesar/Bootloader/libopencm3/lib/stm32/f0/rcc.c:151: warning: explicit link request to 'osc_t' could not be resolved
+/home/caesar/Bootloader/libopencm3/lib/stm32/f0/rcc.c:481: warning: unable to resolve reference to `rcc_cfgr_ahbpre' for \ref command
+/home/caesar/Bootloader/libopencm3/lib/stm32/f0/rcc.c:431: warning: unable to resolve reference to `rcc_cfgr_pmf' for \ref command
+/home/caesar/Bootloader/libopencm3/lib/stm32/f0/rcc.c:444: warning: unable to resolve reference to `rcc_cfgr_pcs' for \ref command
+/home/caesar/Bootloader/libopencm3/lib/stm32/f0/rcc.c:458: warning: unable to resolve reference to `rcc_cfgr_hsepre' for \ref command
+/home/caesar/Bootloader/libopencm3/lib/stm32/f0/rcc.c:470: warning: argument 'ppre1' of command @param is not found in the argument list of rcc_set_ppre(uint32_t ppre)
+/home/caesar/Bootloader/libopencm3/lib/stm32/f0/rcc.c:470: warning: unable to resolve reference to `rcc_cfgr_apb1pre' for \ref command
+/home/caesar/Bootloader/libopencm3/lib/stm32/f0/rcc.c:473: warning: The following parameters of rcc_set_ppre(uint32_t ppre) are not documented:
+  parameter 'ppre'
+/home/caesar/Bootloader/libopencm3/lib/stm32/f0/rcc.c:403: warning: argument 'clock_source' of command @param is not found in the argument list of rcc_set_rtc_clock_source(enum rcc_osc clk)
+/home/caesar/Bootloader/libopencm3/lib/stm32/f0/rcc.c:408: warning: The following parameters of rcc_set_rtc_clock_source(enum rcc_osc clk) are not documented:
+  parameter 'clk'
+/home/caesar/Bootloader/libopencm3/lib/stm32/f0/rcc.c:330: warning: argument 'osc' of command @param is not found in the argument list of rcc_set_sysclk_source(enum rcc_osc clk)
+/home/caesar/Bootloader/libopencm3/lib/stm32/f0/rcc.c:330: warning: explicit link request to 'osc_t' could not be resolved
+/home/caesar/Bootloader/libopencm3/lib/stm32/f0/rcc.c:334: warning: The following parameters of rcc_set_sysclk_source(enum rcc_osc clk) are not documented:
+  parameter 'clk'
+/home/caesar/Bootloader/libopencm3/lib/stm32/f0/rcc.c:360: warning: argument 'osc' of command @param is not found in the argument list of rcc_set_usbclk_source(enum rcc_osc clk)
+/home/caesar/Bootloader/libopencm3/lib/stm32/f0/rcc.c:360: warning: explicit link request to 'osc_t' could not be resolved
+/home/caesar/Bootloader/libopencm3/lib/stm32/f0/rcc.c:363: warning: The following parameters of rcc_set_usbclk_source(enum rcc_osc clk) are not documented:
+  parameter 'clk'
+/home/caesar/Bootloader/libopencm3/lib/stm32/f0/rcc.c:504: warning: explicit link request to 'osc_t' could not be resolved
+/home/caesar/Bootloader/libopencm3/lib/stm32/f0/rcc.c:546: warning: explicit link request to 'osc_t' could not be resolved
+/home/caesar/Bootloader/libopencm3/lib/usb/usb.c:151: warning: The following parameters of usbd_ep_nak_set(usbd_device *usbd_dev, uint8_t addr, uint8_t nak) are not documented:
+  parameter 'usbd_dev'
+/home/caesar/Bootloader/libopencm3/lib/usb/usb.c:135: warning: The following parameters of usbd_ep_read_packet(usbd_device *usbd_dev, uint8_t addr, void *buf, uint16_t len) are not documented:
+  parameter 'usbd_dev'
+  parameter 'buf'
+/home/caesar/Bootloader/libopencm3/lib/usb/usb.c:123: warning: The following parameters of usbd_ep_setup(usbd_device *usbd_dev, uint8_t addr, uint8_t type, uint16_t max_size, usbd_endpoint_callback callback) are not documented:
+  parameter 'usbd_dev'
+  parameter 'max_size'
+  parameter 'callback'
+/home/caesar/Bootloader/libopencm3/lib/usb/usb.c:146: warning: The following parameters of usbd_ep_stall_get(usbd_device *usbd_dev, uint8_t addr) are not documented:
+  parameter 'usbd_dev'
+/home/caesar/Bootloader/libopencm3/lib/usb/usb.c:141: warning: The following parameters of usbd_ep_stall_set(usbd_device *usbd_dev, uint8_t addr, uint8_t stall) are not documented:
+  parameter 'usbd_dev'
+/home/caesar/Bootloader/libopencm3/lib/usb/usb.c:129: warning: The following parameters of usbd_ep_write_packet(usbd_device *usbd_dev, uint8_t addr, const void *buf, uint16_t len) are not documented:
+  parameter 'usbd_dev'
+  parameter 'buf'
+/home/caesar/Bootloader/libopencm3/lib/usb/usb.c:42: warning: The following parameters of usbd_init(const usbd_driver *driver, const struct usb_device_descriptor *dev, const struct usb_config_descriptor *conf, const char **strings, int num_strings, uint8_t *control_buffer, uint16_t control_buffer_size) are not documented:
+  parameter 'num_strings'
+/home/caesar/Bootloader/libopencm3/lib/usb/usb_control.c:73: warning: The following parameters of usbd_register_control_callback(usbd_device *usbd_dev, uint8_t type, uint8_t type_mask, usbd_control_callback callback) are not documented:
+  parameter 'usbd_dev'
+  parameter 'callback'
+/home/caesar/Bootloader/libopencm3/lib/stm32/common/crc_v2.c:71: warning: unable to resolve reference to `crc_polysize' for \ref command
+/home/caesar/Bootloader/libopencm3/lib/stm32/common/crc_v2.c:59: warning: unable to resolve reference to `crc_rev_in' for \ref command
+/home/caesar/Bootloader/libopencm3/lib/stm32/common/usart_common_all.c:191: warning: unable to resolve reference to `usart_reg_base' for \ref command
+/home/caesar/Bootloader/libopencm3/lib/stm32/common/usart_common_v2.c:52: warning: unable to resolve reference to `usart_reg_base' for \ref command
+/home/caesar/Bootloader/libopencm3/lib/stm32/common/usart_common_all.c:358: warning: unable to resolve reference to `usart_reg_base' for \ref command
+/home/caesar/Bootloader/libopencm3/lib/stm32/common/usart_common_v2.c:143: warning: unable to resolve reference to `usart_reg_base' for \ref command
+/home/caesar/Bootloader/libopencm3/lib/stm32/common/usart_common_all.c:255: warning: unable to resolve reference to `usart_reg_base' for \ref command
+/home/caesar/Bootloader/libopencm3/lib/stm32/common/usart_common_all.c:310: warning: unable to resolve reference to `usart_reg_base' for \ref command
+/home/caesar/Bootloader/libopencm3/lib/stm32/common/usart_common_v2.c:108: warning: unable to resolve reference to `usart_reg_base' for \ref command
+/home/caesar/Bootloader/libopencm3/lib/stm32/common/usart_common_v2.c:191: warning: unable to resolve reference to `usart_reg_base' for \ref command
+/home/caesar/Bootloader/libopencm3/lib/stm32/common/usart_common_v2.c:220: warning: unable to resolve reference to `usart_reg_base' for \ref command
+/home/caesar/Bootloader/libopencm3/lib/stm32/common/usart_common_all.c:285: warning: unable to resolve reference to `usart_reg_base' for \ref command
+/home/caesar/Bootloader/libopencm3/lib/stm32/common/usart_common_all.c:334: warning: unable to resolve reference to `usart_reg_base' for \ref command
+/home/caesar/Bootloader/libopencm3/lib/stm32/common/usart_common_v2.c:80: warning: unable to resolve reference to `usart_reg_base' for \ref command
+/home/caesar/Bootloader/libopencm3/lib/stm32/common/usart_common_all.c:177: warning: unable to resolve reference to `usart_reg_base' for \ref command
+/home/caesar/Bootloader/libopencm3/lib/stm32/common/usart_common_v2.c:37: warning: unable to resolve reference to `usart_reg_base' for \ref command
+/home/caesar/Bootloader/libopencm3/lib/stm32/common/usart_common_all.c:346: warning: unable to resolve reference to `usart_reg_base' for \ref command
+/home/caesar/Bootloader/libopencm3/lib/stm32/common/usart_common_v2.c:131: warning: unable to resolve reference to `usart_reg_base' for \ref command
+/home/caesar/Bootloader/libopencm3/lib/stm32/common/usart_common_all.c:243: warning: unable to resolve reference to `usart_reg_base' for \ref command
+/home/caesar/Bootloader/libopencm3/lib/stm32/common/usart_common_all.c:297: warning: unable to resolve reference to `usart_reg_base' for \ref command
+/home/caesar/Bootloader/libopencm3/lib/stm32/common/usart_common_v2.c:94: warning: unable to resolve reference to `usart_reg_base' for \ref command
+/home/caesar/Bootloader/libopencm3/lib/stm32/common/usart_common_v2.c:178: warning: unable to resolve reference to `usart_reg_base' for \ref command
+/home/caesar/Bootloader/libopencm3/lib/stm32/common/usart_common_v2.c:202: warning: unable to resolve reference to `usart_isr' for \ref command
+/home/caesar/Bootloader/libopencm3/lib/stm32/common/usart_common_v2.c:207: warning: unable to resolve reference to `usart_reg_base' for \ref command
+/home/caesar/Bootloader/libopencm3/lib/stm32/common/usart_common_all.c:273: warning: unable to resolve reference to `usart_reg_base' for \ref command
+/home/caesar/Bootloader/libopencm3/lib/stm32/common/usart_common_all.c:322: warning: unable to resolve reference to `usart_reg_base' for \ref command
+/home/caesar/Bootloader/libopencm3/lib/stm32/common/usart_common_v2.c:66: warning: unable to resolve reference to `usart_reg_base' for \ref command
+/home/caesar/Bootloader/libopencm3/lib/stm32/common/usart_common_v2.c:295: warning: unable to resolve reference to `usart_reg_base' for \ref command
+/home/caesar/Bootloader/libopencm3/lib/stm32/common/usart_common_v2.c:296: warning: unable to resolve reference to `usart_sr_flags' for \ref command
+/home/caesar/Bootloader/libopencm3/lib/stm32/common/usart_common_v2.c:250: warning: unable to resolve reference to `usart_reg_base' for \ref command
+/home/caesar/Bootloader/libopencm3/lib/stm32/common/usart_common_all.c:222: warning: unable to resolve reference to `usart_reg_base' for \ref command
+/home/caesar/Bootloader/libopencm3/lib/stm32/common/usart_common_v2.c:233: warning: unable to resolve reference to `usart_reg_base' for \ref command
+/home/caesar/Bootloader/libopencm3/lib/stm32/common/usart_common_all.c:204: warning: unable to resolve reference to `usart_reg_base' for \ref command
+/home/caesar/Bootloader/libopencm3/lib/stm32/common/usart_common_all.c:46: warning: unable to resolve reference to `usart_reg_base' for \ref command
+/home/caesar/Bootloader/libopencm3/lib/stm32/common/usart_common_all.c:84: warning: unable to resolve reference to `usart_reg_base' for \ref command
+/home/caesar/Bootloader/libopencm3/lib/stm32/common/usart_common_all.c:160: warning: unable to resolve reference to `usart_reg_base' for \ref command
+/home/caesar/Bootloader/libopencm3/lib/stm32/common/usart_common_all.c:141: warning: unable to resolve reference to `usart_reg_base' for \ref command
+/home/caesar/Bootloader/libopencm3/lib/stm32/common/usart_common_all.c:122: warning: unable to resolve reference to `usart_reg_base' for \ref command
+/home/caesar/Bootloader/libopencm3/lib/stm32/common/usart_common_v2.c:154: warning: unable to resolve reference to `usart_isr_rtof' for \ref command
+/home/caesar/Bootloader/libopencm3/lib/stm32/common/usart_common_v2.c:161: warning: unable to resolve reference to `usart_reg_base' for \ref command
+/home/caesar/Bootloader/libopencm3/lib/stm32/common/usart_common_all.c:103: warning: unable to resolve reference to `usart_reg_base' for \ref command
+/home/caesar/Bootloader/libopencm3/lib/stm32/common/usart_common_v2.c:280: warning: unable to resolve reference to `usart_reg_base' for \ref command
+/home/caesar/Bootloader/libopencm3/lib/stm32/common/usart_common_v2.c:265: warning: unable to resolve reference to `usart_reg_base' for \ref command

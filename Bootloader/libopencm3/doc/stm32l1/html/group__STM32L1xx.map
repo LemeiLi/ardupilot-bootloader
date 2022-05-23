@@ -1,0 +1,6 @@
+<map id="STM32L1xx" name="STM32L1xx">
+<area shape="rect" id="node1" href="$group__ri__defines.html" title="Register definitions for the STM32L1xx Routing Interface " alt="" coords="145,5,321,32"/>
+<area shape="rect" id="node2" href="$group__dma__file.html" title="libopencm3 STM32L1xx DMA " alt="" coords="207,56,259,83"/>
+<area shape="rect" id="node4" href="$group__flash__file.html" title="libopencm3 STM32L1xx FLASH " alt="" coords="201,107,266,133"/>
+<area shape="rect" id="node5" href="$group__STM32L1xx-rcc-file.html" title="libopencm3 STM32L1xx Reset and Clock Control " alt="" coords="207,157,259,184"/>
+</map>
